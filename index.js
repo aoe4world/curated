@@ -3,6 +3,8 @@ import fs from 'fs'
 import * as dotenv from 'dotenv'
 dotenv.config()
 
+import YTInfo from 'youtube-stream-url'
+
 
 const content = await airtableJson({
   auth_key: process.env.AUTH_KEY, // this is your airtable api key, starting with 'key'
@@ -11,6 +13,8 @@ const content = await airtableJson({
   view: "Main" // this is the view you want to pull
 })
 
+
+//Remove any Non Approved Items and Airtable ID
 for (let i = 0; i < content.length; i++) {
   //Delete the ID field that AirTable uses
   delete content[i].__id
@@ -21,6 +25,27 @@ for (let i = 0; i < content.length; i++) {
   }
 }
 
+//Get youtube data
+for (let i = 0; i < content.length; i++) {
+  let videoInfo;
+  //Checks if the Video is a Youtube Link
+  if (content[i].type === "Video" && new RegExp("youtu").test(content[i].url)) {
+    videoInfo = await YTInfo.getInfo({ url: content[i].url }).then(video => {
+      console.log(video.videoDetails.title)
+      content[i].youtube_data = {
+        title: video.videoDetails.title,
+        videoId: video.videoDetails.videoId,
+        channelId: video.videoDetails.channelId
+      }
+    //Check if a thumbnail URL already exists, if not add it.
+    if(!content[i].thumbnail) {
+      content[i].thumbnail = video.videoDetails.thumbnail.thumbnails[video.videoDetails.thumbnail.thumbnails.length - 1].url
+    }
+    })
+  }
+}
+
+console.log(content)
 
 let data = JSON.stringify(content);
 fs.writeFileSync('Content.json', data);

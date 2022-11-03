@@ -12,6 +12,7 @@
   "dependencies": {
     "airtable-json": "^2.1.2",
     "dotenv": "^16.0.2",
-    "node-sheets": "^1.2.0"
+    "node-sheets": "^1.2.0",
+    "youtube-stream-url": "^2.3.0"
   }
 }
