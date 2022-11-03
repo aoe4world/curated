@@ -37,10 +37,15 @@ for (let i = 0; i < content.length; i++) {
         videoId: video.videoDetails.videoId,
         channelId: video.videoDetails.channelId
       }
-    //Check if a thumbnail URL already exists, if not add it.
-    if(!content[i].thumbnail) {
-      content[i].thumbnail = video.videoDetails.thumbnail.thumbnails[video.videoDetails.thumbnail.thumbnails.length - 1].url
-    }
+      //Check if a thumbnail URL already exists, if not add it.
+      if (!content[i].thumbnail) {
+        content[i].thumbnail = video.videoDetails.thumbnail.thumbnails[video.videoDetails.thumbnail.thumbnails.length - 1].url
+      }
+      //Check if Creator_URL exists, if not create it from the channelID. 
+      //This does NOT get the Custom URL
+      if (!content[i].creator_url) {
+        content[i].creator_url = `https://youtube.com/channel/${video.videoDetails.channelId}`
+      }
     })
   }
 }
