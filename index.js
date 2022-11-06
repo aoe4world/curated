@@ -5,14 +5,12 @@ dotenv.config()
 
 import YTInfo from 'youtube-stream-url'
 
-
 const content = await airtableJson({
   auth_key: process.env.AUTH_KEY, // this is your airtable api key, starting with 'key'
   base_name: process.env.BASE_NAME, // this is the base api key, which starts with 'app'
   primary: "Content", // this is the table name you want to pull
   view: "Main" // this is the view you want to pull
 })
-
 
 //Remove any Non Approved Items and Airtable ID
 for (let i = 0; i < content.length; i++) {
@@ -27,15 +25,20 @@ for (let i = 0; i < content.length; i++) {
 
 //Get youtube data
 for (let i = 0; i < content.length; i++) {
+  
   let videoInfo;
+  
   //Checks if the Video is a Youtube Link
-  if (content[i].type === "Video" && new RegExp("youtu").test(content[i].url)) {
+  if ((content[i].type === "Video" || content[i].type === "Shorts")
+    && new RegExp("youtu").test(content[i].url)) {
+
     videoInfo = await YTInfo.getInfo({ url: content[i].url }).then(video => {
-      console.log(video.videoDetails.title)
+      console.log("YT Title: " + video.videoDetails.title)
       content[i].youtube_data = {
         title: video.videoDetails.title,
         videoId: video.videoDetails.videoId,
-        channelId: video.videoDetails.channelId
+        channelId: video.videoDetails.channelId,
+        videoDuration: video.videoDetails.lengthSeconds
       }
       //Check if a thumbnail URL already exists, if not add it.
       if (!content[i].thumbnail) {
@@ -47,10 +50,12 @@ for (let i = 0; i < content.length; i++) {
         content[i].creator_url = `https://youtube.com/channel/${video.videoDetails.channelId}`
       }
     })
+  } else {
+    console.log(`Skipping non video: ${content[i].title}`)
   }
 }
 
-console.log(content)
+//console.log(content)
 
 let data = JSON.stringify(content);
 fs.writeFileSync('Content.json', data);
