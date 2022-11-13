@@ -1616,6 +1616,32 @@
     "thumbnail": "https://i.ytimg.com/vi/MedNbpdY2YI/maxresdefault.jpg"
   },
   {
+    "title": "This Best Ottoman Build Order In AoE4",
+    "type": "Video",
+    "relatedItems": [
+      "civs/ottomans"
+    ],
+    "tags": [
+      "Guide",
+      "Season 3"
+    ],
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "Ottomans"
+    ],
+    "url": "https://www.youtube.com/watch?v=Cl105QMHD9U",
+    "creator_url": "https://www.youtube.com/c/AussieDrongo",
+    "description": "Aussie Drongo is here to show you a super good Build Order, that works on every map and every civ! ",
+    "approved": true,
+    "youtube_data": {
+      "title": "This Best Ottoman Build Order In AoE4",
+      "videoId": "Cl105QMHD9U",
+      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
+      "videoDuration": "861"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/Cl105QMHD9U/maxresdefault.jpg"
+  },
+  {
     "title": "How to Play Malians in Age of Empires 4?",
     "type": "Video",
     "relatedItems": [
@@ -1666,5 +1692,33 @@
       "videoDuration": "1645"
     },
     "thumbnail": "https://i.ytimg.com/vi/ZC4m366OHUA/maxresdefault.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dUbuJhJZj9g",
+    "type": "Video",
+    "tags": [
+      "Breakdown",
+      "Season 3"
+    ],
+    "title": "Ottoman Archer and Sipahi Ram Rush",
+    "description": "Snoopa's breakdown of an Ottoman aggressive rush using archers and sipahis ",
+    "creator": "Snoopa",
+    "civilizations": [
+      "Ottomans"
+    ],
+    "relatedItems": [
+      "civs/ottomans",
+      "units/battering-ram",
+      "units/sipahi"
+    ],
+    "approved": true,
+    "youtube_data": {
+      "title": "AOE4 | Ottoman Rush | Build Order In Action",
+      "videoId": "dUbuJhJZj9g",
+      "channelId": "UCxMb7qbRvRzUmtC4BH8WkHA",
+      "videoDuration": "1045"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/dUbuJhJZj9g/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCxMb7qbRvRzUmtC4BH8WkHA"
   }
 ]
