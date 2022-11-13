@@ -6,8 +6,8 @@ dotenv.config();
 import YTInfo from 'youtube-stream-url';
 
 let content = await airtableJson({
-  auth_key: process.env.AUTH_KEY, // this is your airtable api key, starting with 'key'
-  base_name: process.env.BASE_NAME, // this is the base api key, which starts with 'app'
+  auth_key: process.env.AIRTABLE_AUTH_KEY, // this is your airtable api key, starting with 'key'
+  base_name: process.env.AIRTABLE_BASE_NAME, // this is the base api key, which starts with 'app'
   primary: 'Content', // this is the table name you want to pull
   view: 'Main', // this is the view you want to pull
 });
