@@ -12,7 +12,7 @@ let content = await airtableJson({
   view: 'Main', // this is the view you want to pull
 });
 
-const parsedData = JSON.parse(fs.readFileSync('content.json'));
+const parsedData = JSON.parse(fs.readFileSync('data/content.json'));
 
 for (const item of content) {
   //Delete the ID field that AirTable uses
@@ -61,4 +61,4 @@ for (const item of content) {
 content = content.filter((x) => x.approved);
 
 let data = JSON.stringify(content, null, 2);
-fs.writeFileSync('content.json', data);
+fs.writeFileSync('data/content.json', data);
