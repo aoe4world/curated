@@ -61,4 +61,10 @@ for (const item of content) {
 content = content.filter((x) => x.approved);
 
 let data = JSON.stringify(content, null, 2);
+let featured = JSON.stringify(
+  content.filter((x) => x.featured),
+  null,
+  2,
+);
 fs.writeFileSync('data/content.json', data);
+fs.writeFileSync('data/featured.json', featured);
