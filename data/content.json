@@ -15,8 +15,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=XKROoOxNwwg",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Improved Processing is an Imperial Age unique technology for The Abbasid Dynasty in Age of Empires 4, so let's explore how good it is!",
     "featured": true,
+    "description": "Improved Processing is an Imperial Age unique technology for The Abbasid Dynasty in Age of Empires 4, so let's explore how good it is!",
     "youtube_data": {
       "title": "How Good is Improved Processing for Abbasids?",
       "videoId": "XKROoOxNwwg",
@@ -39,10 +39,10 @@
     "civilizations": [
       "English"
     ],
-    "url": "https://www.youtube.com/watch?v=tX2P0BlEbzQ&list=PLxYXItDSsXi2V7U6EOTbx3YZ70PCk1rpT&index=6",
+    "url": "https://www.youtube.com/watch?v=tX2P0BlEbzQ",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Enclosures is an Imperial Age unique technology for The English in Age of Empires 4, and it's fantastic. Let's explore why!",
     "featured": true,
+    "description": "Enclosures is an Imperial Age unique technology for The English in Age of Empires 4, and it's fantastic. Let's explore why!",
     "youtube_data": {
       "title": "When should you research Enclosures for The English?",
       "videoId": "tX2P0BlEbzQ",
@@ -67,8 +67,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=j0pN9FX0h6E",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "We explore one of the most useful economy technologies in Age of Empires 4: Wheelbarrow! Exactly when should we pick it up though? Let's find out!",
     "featured": true,
+    "description": "We explore one of the most useful economy technologies in Age of Empires 4: Wheelbarrow! Exactly when should we pick it up though? Let's find out!",
     "youtube_data": {
       "title": "When should you research Wheelbarrow? (AoE4)",
       "videoId": "j0pN9FX0h6E",
@@ -80,6 +80,12 @@
   {
     "title": "When should you get Food Upgrades?",
     "type": "Video",
+    "relatedItems": [
+      "technologies/horticulture",
+      "technologies/fertilization",
+      "technologies/precision-cross-breeding",
+      "buildings/mill"
+    ],
     "approved": true,
     "tags": [
       "Economy"
@@ -90,14 +96,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=vEBjo2RM6wA",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Food is the backbone of your economy in Age of Empires 4, so let's explore the optimal times on when you should research Horticulture, Fertilization, and Precision Cross Breeding from the Mill!",
     "featured": true,
-    "relatedItems": [
-      "technologies/horticulture",
-      "technologies/fertilization",
-      "technologies/precision-cross-breeding",
-      "buildings/mill"
-    ],
+    "description": "Food is the backbone of your economy in Age of Empires 4, so let's explore the optimal times on when you should research Horticulture, Fertilization, and Precision Cross Breeding from the Mill!",
     "youtube_data": {
       "title": "When Should You Get Food Upgrades? (AoE4)",
       "videoId": "vEBjo2RM6wA",
@@ -122,8 +122,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=aKWogfw8L0M",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "The Season One update in Age of Empires 4 has introduced many changes, one of which is to hunting. Survival Techniques has thus changed significantly, so let's explore how good it is in the current patch!",
     "featured": true,
+    "description": "The Season One update in Age of Empires 4 has introduced many changes, one of which is to hunting. Survival Techniques has thus changed significantly, so let's explore how good it is in the current patch!",
     "youtube_data": {
       "title": "Should you get the new Survival Techniques?",
       "videoId": "aKWogfw8L0M",
@@ -153,8 +153,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=kTy7wGW6k94",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Mining technologies in the Age of Empires franchise don't get much love, and for good reason. Are Specialized Pick, Acid Distillation, and Cupellation in Age of Empires 4 any different though? Let's find out!",
     "featured": true,
+    "description": "Mining technologies in the Age of Empires franchise don't get much love, and for good reason. Are Specialized Pick, Acid Distillation, and Cupellation in Age of Empires 4 any different though? Let's find out!",
     "youtube_data": {
       "title": "When Should You Research Mining Techs?",
       "videoId": "kTy7wGW6k94",
@@ -179,8 +179,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=fxueFVEMBtA",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "The Prelates of the Holy Roman Empire add a lot of economic as well as military mechanics to the civilization in Age of Empires IV — but how good are Prelates at boosting your economy? Let's find out!",
     "featured": true,
+    "description": "The Prelates of the Holy Roman Empire add a lot of economic as well as military mechanics to the civilization in Age of Empires IV — but how good are Prelates at boosting your economy? Let's find out!",
     "youtube_data": {
       "title": "Prelates Deep Dive for Economy!",
       "videoId": "fxueFVEMBtA",
@@ -192,6 +192,9 @@
   {
     "title": "When are extra Mining Camps Worth it?",
     "type": "Video",
+    "relatedItems": [
+      "buildings/mining-camp"
+    ],
     "approved": true,
     "tags": [
       "Economy"
@@ -202,11 +205,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=OIxsepoLbss",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Just like lumber camp refreshing, adding additional mining camps for both gold and stone collection increases the efficiency of your miners. That said, when is it worth it to build said additional mining camps, and does Wheelbarrow and Specialized Pick affect this? Let's find out!",
     "featured": true,
-    "relatedItems": [
-      "buildings/mining-camp"
-    ],
+    "description": "Just like lumber camp refreshing, adding additional mining camps for both gold and stone collection increases the efficiency of your miners. That said, when is it worth it to build said additional mining camps, and does Wheelbarrow and Specialized Pick affect this? Let's find out!",
     "youtube_data": {
       "title": "When are extra Mining Camps Worth It?",
       "videoId": "OIxsepoLbss",
@@ -218,6 +218,12 @@
   {
     "title": "When should you research Wood upgrades?",
     "type": "Video",
+    "relatedItems": [
+      "technologies/lumber-preservation",
+      "technologies/double-broadax",
+      "technologies/crosscut-saw",
+      "technologies/forestry"
+    ],
     "approved": true,
     "tags": [
       "Economy"
@@ -228,14 +234,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=uEn7Bq3R9ak",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "We revisit the efficiency of wood collection in Age of Empires 4 — this time, we investigate all wood upgrades in the Lumber Camp; namely Forestry, Double Broadax, Wheelbarrow, Lumber Preservation, and Crosscut Saw! ",
     "featured": true,
-    "relatedItems": [
-      "technologies/lumber-preservation",
-      "technologies/double-broadax",
-      "technologies/crosscut-saw",
-      "technologies/forestry"
-    ],
+    "description": "We revisit the efficiency of wood collection in Age of Empires 4 — this time, we investigate all wood upgrades in the Lumber Camp; namely Forestry, Double Broadax, Wheelbarrow, Lumber Preservation, and Crosscut Saw! ",
     "youtube_data": {
       "title": "When Should You Research Wood Upgrades?",
       "videoId": "uEn7Bq3R9ak",
@@ -247,6 +247,9 @@
   {
     "title": "When should you Optimally Refresh Lumber Camps?",
     "type": "Video",
+    "relatedItems": [
+      "buildings/lumber-camp"
+    ],
     "approved": true,
     "tags": [
       "Economy"
@@ -257,11 +260,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=YQXj3EcOqhk",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "We get into the forest of Age of Empires 4 economy - this time with the age old question of when is the optimal time for you to refresh your lumber camps for the most optimal wood collection! Be sure to use the collection rates and payback times here in your gameplay!",
     "featured": true,
-    "relatedItems": [
-      "buildings/lumber-camp"
-    ],
+    "description": "We get into the forest of Age of Empires 4 economy - this time with the age old question of when is the optimal time for you to refresh your lumber camps for the most optimal wood collection! Be sure to use the collection rates and payback times here in your gameplay!",
     "youtube_data": {
       "title": "When Should You Optimally Refresh Lumber Camps?",
       "videoId": "YQXj3EcOqhk",
@@ -273,6 +273,9 @@
   {
     "title": "An In-Depth Analysis of the Fire Lancers!",
     "type": "Video",
+    "relatedItems": [
+      "chinese/units/fire-lancer"
+    ],
     "approved": true,
     "tags": [
       "Military"
@@ -283,11 +286,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=xKT9uXMv5kQ",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "The Chinese Fire Lancers are one of the most unique units in Age of Empires 4. They are available in the Castle Age once the player achieves the Yuan Dynasty. They have, however, raised some concerns about their design and balance, so here's an exploration of the unit's stats, matchups, strengths, and weaknesses. Enjoy!",
     "featured": true,
-    "relatedItems": [
-      "chinese/units/fire-lancer"
-    ],
+    "description": "The Chinese Fire Lancers are one of the most unique units in Age of Empires 4. They are available in the Castle Age once the player achieves the Yuan Dynasty. They have, however, raised some concerns about their design and balance, so here's an exploration of the unit's stats, matchups, strengths, and weaknesses. Enjoy!",
     "youtube_data": {
       "title": "An In-Depth Analysis of the Fire Lancers!",
       "videoId": "xKT9uXMv5kQ",
@@ -299,6 +299,10 @@
   {
     "title": "The Choice of Landsknechts over Man-at-Arms!",
     "type": "Video",
+    "relatedItems": [
+      "units/man-at-arms",
+      "units/landsknecht"
+    ],
     "approved": true,
     "tags": [
       "Military"
@@ -309,12 +313,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=0n8ntKTPg9Q",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Landsknechts are Holy Roman Empire's unique unit that can be trained in the Castle Age. How good are they in Age of Empires 4? And why should you pick them over the already-great HRE Man-at-Arms? Let's find out!",
     "featured": true,
-    "relatedItems": [
-      "units/man-at-arms",
-      "units/landsknecht"
-    ],
+    "description": "Landsknechts are Holy Roman Empire's unique unit that can be trained in the Castle Age. How good are they in Age of Empires 4? And why should you pick them over the already-great HRE Man-at-Arms? Let's find out!",
     "youtube_data": {
       "title": "The Choice of Landsknechts over Man-at-Arms!",
       "videoId": "0n8ntKTPg9Q",
@@ -326,6 +326,10 @@
   {
     "title": "Can Elephants Garrison Outposts in AoE4?",
     "type": "Shorts",
+    "relatedItems": [
+      "units/war-elephant",
+      "units/tower-elephant"
+    ],
     "approved": true,
     "tags": [
       "Tips&Tricks",
@@ -337,12 +341,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=aCKgsmxu7oo",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Age of Empires has always had silly mechanics when it comes to garrisoning units in buildings or other units. How does Age of Empires 4 differ from the series? Let's find out!",
     "featured": true,
-    "relatedItems": [
-      "units/war-elephant",
-      "units/tower-elephant"
-    ],
+    "description": "Age of Empires has always had silly mechanics when it comes to garrisoning units in buildings or other units. How does Age of Empires 4 differ from the series? Let's find out!",
     "youtube_data": {
       "title": "Can Elephants Garrison Outposts in AoE4?",
       "videoId": "aCKgsmxu7oo",
@@ -354,6 +354,9 @@
   {
     "title": "New Housed Mechanic in AoE4",
     "type": "Video",
+    "relatedItems": [
+      "buildings/house"
+    ],
     "approved": true,
     "tags": [
       "Tips&Tricks"
@@ -364,11 +367,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=ayb4TSmk98c",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "Being housed in Age of Empires 4 works slightly differently than in Age of Empires 2 - but this minor tweak has sizeable implications to how the game is played. Enjoy!",
     "featured": true,
-    "relatedItems": [
-      "buildings/house"
-    ],
+    "description": "Being housed in Age of Empires 4 works slightly differently than in Age of Empires 2 - but this minor tweak has sizeable implications to how the game is played. Enjoy!",
     "youtube_data": {
       "title": "New Housed Mechanic in AoE4!",
       "videoId": "ayb4TSmk98c",
@@ -390,8 +390,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=sw2Hi6OWwjY",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "There are a plethora of changes made to the Wild Boar in Age of Empires 4, compared to its 2 decade old predecessor. Here's a quick summary of all you need to know about the Huntabe Boar in AoE4!",
     "featured": true,
+    "description": "There are a plethora of changes made to the Wild Boar in Age of Empires 4, compared to its 2 decade old predecessor. Here's a quick summary of all you need to know about the Huntabe Boar in AoE4!",
     "youtube_data": {
       "title": "Wild Boars in Age of Empires IV!",
       "videoId": "sw2Hi6OWwjY",
@@ -625,8 +625,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=25zQ2lAUsr4",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the English",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the English",
     "youtube_data": {
       "title": "How to Play English in AOE4? (Season 2 Guide)",
       "videoId": "25zQ2lAUsr4",
@@ -652,8 +652,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=aoZ2ibVMmes",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the French",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the French",
     "youtube_data": {
       "title": "How to Play French in AOE4? (Season 2 Guide)",
       "videoId": "aoZ2ibVMmes",
@@ -679,8 +679,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=rrl7brRJK78",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Mongols",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Mongols",
     "youtube_data": {
       "title": "How to Play Mongol in Age of Empires 4? (Season 2 Guide)",
       "videoId": "rrl7brRJK78",
@@ -706,8 +706,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=zpKWnN-inPE",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Rus",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Rus",
     "youtube_data": {
       "title": "How to Play Rus in Age of Empires 4? (Season 2 Guide)",
       "videoId": "zpKWnN-inPE",
@@ -734,8 +734,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=egOtzsbo4pg",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Abbasids and Delhi",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Abbasids and Delhi",
     "youtube_data": {
       "title": "How to play Abbasid and Delhi in AOE4? (Season 2 Guides)",
       "videoId": "egOtzsbo4pg",
@@ -762,8 +762,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=uQtJ8jkSDOw",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Holy Roman Empire and Chinese",
     "featured": true,
+    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Holy Roman Empire and Chinese",
     "youtube_data": {
       "title": "How to play HRE and Chinese in AOE4? (Season 2 Guides)",
       "videoId": "uQtJ8jkSDOw",
@@ -784,8 +784,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=3JAP6OBu2ys",
-    "description": "This guide aims to give you options in the midgame. ",
     "featured": true,
+    "description": "This guide aims to give you options in the midgame. ",
     "youtube_data": {
       "title": "AOE 4 BEGINNER GUIDE FOR THE MIDGAME",
       "videoId": "3JAP6OBu2ys",
@@ -808,8 +808,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=43LRUu1AzBc",
-    "description": "This guide goes over economic management. Blade55555 go over the basics of what you should do when floating resources, specifically when you float too much wood/gold and so on.\n\nHope you all enjoy!",
     "featured": true,
+    "description": "This guide goes over economic management. Blade55555 go over the basics of what you should do when floating resources, specifically when you float too much wood/gold and so on.\n\nHope you all enjoy!",
     "youtube_data": {
       "title": "[AOE4][Guide] Managing your Economy",
       "videoId": "43LRUu1AzBc",
@@ -836,8 +836,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=9sSXWNKWbxE",
     "creator_url": "https://www.youtube.com/c/anmagicalcow",
-    "description": "Rus is maybe not the first civilization you think of when you hear \"Tower Rush\". With a more expensive tower aswell as their heavy reliance on wood. However, with textiles, 8 villagers and their hammers, and a greedy opponent; A well place tower can easily make them GG early. Lets learn how!",
     "featured": true,
+    "description": "Rus is maybe not the first civilization you think of when you hear \"Tower Rush\". With a more expensive tower aswell as their heavy reliance on wood. However, with textiles, 8 villagers and their hammers, and a greedy opponent; A well place tower can easily make them GG early. Lets learn how!",
     "youtube_data": {
       "title": "kauP vs BeastyQT -  Rus Tower \"Rush\" Breakdown",
       "videoId": "9sSXWNKWbxE",
@@ -862,8 +862,8 @@
       "Abbasid"
     ],
     "url": "https://www.youtube.com/watch?v=-00wRum85mo",
-    "description": "In this video Blade55555 goes over how to defend English aggression while going 2 town centers as Abbasid.",
     "featured": true,
+    "description": "In this video Blade55555 goes over how to defend English aggression while going 2 town centers as Abbasid.",
     "youtube_data": {
       "title": "Abbasid guide against English",
       "videoId": "-00wRum85mo",
@@ -888,8 +888,8 @@
       "Abbasid"
     ],
     "url": "https://docs.google.com/document/d/1C384_8-a4Q24kzqJvIh3HDCzfPRHTNbcTj5lh-7IuPg/edit",
-    "description": "Blade55555 writes about how to play the Abbasid and discusses different matchups, aswell as when to go 2 TC and how.",
-    "featured": true
+    "featured": true,
+    "description": "Blade55555 writes about how to play the Abbasid and discusses different matchups, aswell as when to go 2 TC and how."
   },
   {
     "title": "Trebuchet Accuracy in AoE4!",
@@ -908,8 +908,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=URhe8zv8Rjc",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Our fellow creator Aussie Drongo asked a question in one of his recent videos regarding Trebuchet accuracy against smaller buildings. Well, here's a full analysis on its accuracy mechanics!",
     "featured": true,
+    "description": "Our fellow creator Aussie Drongo asked a question in one of his recent videos regarding Trebuchet accuracy against smaller buildings. Well, here's a full analysis on its accuracy mechanics!",
     "youtube_data": {
       "title": "Trebuchet Accuracy in AoE4! (Aussie Drongo's Question)",
       "videoId": "URhe8zv8Rjc",
@@ -930,8 +930,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=9eDutOijoDs",
-    "description": "Don Artie talks about how to think and how to strategies in your own games",
     "featured": true,
+    "description": "Don Artie talks about how to think and how to strategies in your own games",
     "youtube_data": {
       "title": "age of empires 4: strategy guide/test!",
       "videoId": "9eDutOijoDs",
@@ -953,8 +953,8 @@
       "Delhi"
     ],
     "url": "https://www.youtube.com/watch?v=SY3LNAvLytQ",
-    "description": "Don Artie talks about how to play the Delhi and how to think strategice in game",
     "featured": true,
+    "description": "Don Artie talks about how to play the Delhi and how to think strategice in game",
     "youtube_data": {
       "title": "Age of empires 4 Delhi + strategic thinking guide",
       "videoId": "SY3LNAvLytQ",
@@ -977,8 +977,8 @@
       "Abbasid"
     ],
     "url": "https://www.youtube.com/watch?v=RPczZsmQ6_w",
-    "description": "Don Artie teaches you an Abbasid Opening",
     "featured": true,
+    "description": "Don Artie teaches you an Abbasid Opening",
     "youtube_data": {
       "title": "Age of empires 4; abbasid opening build",
       "videoId": "RPczZsmQ6_w",
@@ -1001,8 +1001,8 @@
       "English"
     ],
     "url": "https://www.youtube.com/watch?v=DrGaxLGiR2E",
-    "description": "Don Artie talks about how to play the Abbasid against the English",
     "featured": true,
+    "description": "Don Artie talks about how to play the Abbasid against the English",
     "youtube_data": {
       "title": "abbasid vs english guide",
       "videoId": "DrGaxLGiR2E",
@@ -1037,6 +1037,10 @@
   {
     "title": "How to \"TC HOP\" like a pro!",
     "type": "Shorts",
+    "relatedItems": [
+      "buildings/town-center",
+      "buildings/capital-town-center"
+    ],
     "approved": true,
     "tags": [
       "Tips&Tricks"
@@ -1046,12 +1050,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=YmjM1o6Ndb4",
-    "description": "Don Artie teaches you how to micro TC Hop like a pro. By changing the direction of where your villagers exit your TC, you can optimize a lot of scenarios",
     "featured": true,
-    "relatedItems": [
-      "buildings/town-center",
-      "buildings/capital-town-center"
-    ],
+    "description": "Don Artie teaches you how to micro TC Hop like a pro. By changing the direction of where your villagers exit your TC, you can optimize a lot of scenarios",
     "youtube_data": {
       "title": "Age of Empires 4 - How to \"TC HOP\" like a PRO!",
       "videoId": "YmjM1o6Ndb4",
@@ -1102,8 +1102,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=CGPgM2VMpKk",
     "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "description": "The Zhuge Nu is a very strong unit, however how does it fare against the Malian Javelin throwers?",
     "featured": true,
+    "description": "The Zhuge Nu is a very strong unit, however how does it fare against the Malian Javelin throwers?",
     "youtube_data": {
       "title": "Aoe4 | Zhuge Nu vs Javelin Throwers",
       "videoId": "CGPgM2VMpKk",
@@ -1131,8 +1131,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=QVy-LbyADCY",
     "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "description": "How do Veteran Archers deal with HRE Man-At-Arms and Landsknechts, when properly micro'ed?\n",
     "featured": true,
+    "description": "How do Veteran Archers deal with HRE Man-At-Arms and Landsknechts, when properly micro'ed?\n",
     "youtube_data": {
       "title": "Aoe4 | Veteran Archers vs Man at Arms + Landsknecht WITH Micro",
       "videoId": "QVy-LbyADCY",
@@ -1160,8 +1160,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=RbYP7WsCPg8",
     "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "description": "How do Malian Musofadi Gunners stack up versus Ottoman Jannisaries of equal resources?\n",
     "featured": true,
+    "description": "How do Malian Musofadi Gunners stack up versus Ottoman Jannisaries of equal resources?\n",
     "youtube_data": {
       "title": "Aoe4 | Musofadi Gunner vs Janissary",
       "videoId": "RbYP7WsCPg8",
@@ -1275,8 +1275,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=-TPnRZzlgBM",
-    "description": "Today we examine one of the many possible counter plays to France's Knight/Archer, featuring the Delhi civilization.",
     "featured": true,
+    "description": "Today we examine one of the many possible counter plays to France's Knight/Archer, featuring the Delhi civilization.",
     "youtube_data": {
       "title": "Countering Knight-Archer | AoE4",
       "videoId": "-TPnRZzlgBM",
@@ -1301,8 +1301,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=4QwFR6J54ik",
-    "description": "iNcog disccusses the \"Military Academy\" upgrade. When to get it, and the value of it",
     "featured": true,
+    "description": "iNcog disccusses the \"Military Academy\" upgrade. When to get it, and the value of it",
     "youtube_data": {
       "title": "The Math Behind Military Academy | AoE4",
       "videoId": "4QwFR6J54ik",
@@ -1328,8 +1328,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=VWdimdRA1BI",
-    "description": "iNcog thinks the French definitely take the number one spot for their knights, but the bonuses from the other civilizations are quite interesting as well. Let's dive in!",
     "featured": true,
+    "description": "iNcog thinks the French definitely take the number one spot for their knights, but the bonuses from the other civilizations are quite interesting as well. Let's dive in!",
     "youtube_data": {
       "title": "The Strongest Knight? | AoE4",
       "videoId": "VWdimdRA1BI",
@@ -1354,8 +1354,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=hZ7O_CTo3GU",
-    "description": "iNcog shares his experience in defending against Ram All-ins. He goes over unit composition and overall Strategy. Successfully defending your fast expansion is an inherent win condition in AOE4.",
     "featured": true,
+    "description": "iNcog shares his experience in defending against Ram All-ins. He goes over unit composition and overall Strategy. Successfully defending your fast expansion is an inherent win condition in AOE4.",
     "youtube_data": {
       "title": "Defending Against Ram All-ins | AoE4",
       "videoId": "hZ7O_CTo3GU",
@@ -1381,8 +1381,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=H8DXZAD0wp0",
-    "description": "Deer pushing with a slightly mathematically approach. Could have examined this more closely but I didn't have enough time to dive to the bottom of this one. ",
     "featured": true,
+    "description": "Deer pushing with a slightly mathematically approach. Could have examined this more closely but I didn't have enough time to dive to the bottom of this one. ",
     "youtube_data": {
       "title": "Pushing Deer is Good, but How Good? | AoE4",
       "videoId": "H8DXZAD0wp0",
@@ -1464,8 +1464,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=MQVt7s9Zb34",
-    "description": "Some of the buildings in AoE4 has influence ranges. But what is the optimal placement for them?",
     "featured": true,
+    "description": "Some of the buildings in AoE4 has influence ranges. But what is the optimal placement for them?",
     "youtube_data": {
       "title": "AoE4: Perfect Building Placement for Influence Bonuses",
       "videoId": "MQVt7s9Zb34",
@@ -1491,8 +1491,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=_Exr0qsZbUs",
-    "description": "The French Royal Knight is strong, but is there a stronger Feudal Unit? The Early Man-At-Arms is a strong contendor\n",
     "featured": true,
+    "description": "The French Royal Knight is strong, but is there a stronger Feudal Unit? The Early Man-At-Arms is a strong contendor\n",
     "youtube_data": {
       "title": "Who is the Real Feudal MVP? | AoE4",
       "videoId": "_Exr0qsZbUs",
@@ -1586,8 +1586,8 @@
       "Abbasid"
     ],
     "url": "https://www.youtube.com/watch?v=ZYToXiD0Mjc",
-    "description": "FitzBro's Abbasid Guide for season 2!",
     "featured": true,
+    "description": "FitzBro's Abbasid Guide for season 2!",
     "youtube_data": {
       "title": "AoE4 Abbasid Dynasty Guide - Rank Up to CONQUEROR",
       "videoId": "ZYToXiD0Mjc",
@@ -1613,8 +1613,8 @@
       "Abbasid"
     ],
     "url": "https://www.youtube.com/watch?v=CIrsYX7M4nM",
-    "description": "2 TC is the old Meta, but many still does it. Let's use the mongols to shut down those greedy enough to still do so!",
     "featured": true,
+    "description": "2 TC is the old Meta, but many still does it. Let's use the mongols to shut down those greedy enough to still do so!",
     "youtube_data": {
       "title": "Mongol Build Order to CRUSH Greedy TC Boomers",
       "videoId": "CIrsYX7M4nM",
@@ -1641,8 +1641,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=RbIUxieUMVU",
     "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "description": "Aussie Drongo is a nutoriuos Chinese main... Drongo talks about everything China; Strategy, Unit Compositions, Civ Matchups, Map Strats, Base Building and much much more!",
     "featured": true,
+    "description": "Aussie Drongo is a nutoriuos Chinese main... Drongo talks about everything China; Strategy, Unit Compositions, Civ Matchups, Map Strats, Base Building and much much more!",
     "youtube_data": {
       "title": "AoE4 - The Ultimate Chinese Guide [Season 3]",
       "videoId": "RbIUxieUMVU",
@@ -1660,7 +1660,8 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season 3"
+      "Season 3",
+      "Build Order"
     ],
     "creator": "Aussie_Drongo",
     "civilizations": [
@@ -1668,8 +1669,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=O1-mFMYiMWY",
     "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "description": "Aussie Drongo is a nutoriuos Chinese main... In this video he talk about a Fast Song Dynasty, Zhuge Nu timing push, to help you climb the ladder!",
     "featured": true,
+    "description": "Aussie Drongo is a nutoriuos Chinese main... In this video he talk about a Fast Song Dynasty, Zhuge Nu timing push, to help you climb the ladder!",
     "youtube_data": {
       "title": "How To Do The \"Overpowered\" China Strategy",
       "videoId": "O1-mFMYiMWY",
@@ -1695,8 +1696,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=MedNbpdY2YI",
     "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "description": "The Ottoman Janissaries have been a controversial unit since their introduction in Age of Empires 4, but how good are they? Let's find out!",
     "featured": true,
+    "description": "The Ottoman Janissaries have been a controversial unit since their introduction in Age of Empires 4, but how good are they? Let's find out!",
     "youtube_data": {
       "title": "How Strong are the Ottoman Janissaries in AoE4?",
       "videoId": "MedNbpdY2YI",
@@ -1711,6 +1712,7 @@
     "relatedItems": [
       "civs/ottomans"
     ],
+    "approved": true,
     "tags": [
       "Guide",
       "Season 3"
@@ -1721,9 +1723,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=Cl105QMHD9U",
     "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "description": "Aussie Drongo is here to show you a super good Build Order, that works on every map and every civ! ",
-    "approved": true,
     "featured": true,
+    "description": "Aussie Drongo is here to show you a super good Build Order, that works on every map and every civ! ",
     "youtube_data": {
       "title": "This Best Ottoman Build Order In AoE4",
       "videoId": "Cl105QMHD9U",
@@ -1749,8 +1750,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=oiBuqv4o2X0",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows you the basics of how to play the Malians",
     "featured": true,
+    "description": "Beastyqt shows you the basics of how to play the Malians",
     "youtube_data": {
       "title": "How to play Malians in Age of Empires 4? (Season 3 Guide)",
       "videoId": "oiBuqv4o2X0",
@@ -1776,8 +1777,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=ZC4m366OHUA",
     "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "description": "Beastyqt shows you the basics of how to play the Ottomans",
     "featured": true,
+    "description": "Beastyqt shows you the basics of how to play the Ottomans",
     "youtube_data": {
       "title": "How to play Ottomans in Age of Empires 4? (Season 3 Guide)",
       "videoId": "ZC4m366OHUA",
@@ -1787,25 +1788,25 @@
     "thumbnail": "https://i.ytimg.com/vi/ZC4m366OHUA/maxresdefault.jpg"
   },
   {
-    "url": "https://www.youtube.com/watch?v=dUbuJhJZj9g",
-    "type": "Video",
-    "tags": [
-      "Breakdown",
-      "Season 3"
-    ],
     "title": "Ottoman Archer and Sipahi Ram Rush",
-    "description": "Snoopa's breakdown of an Ottoman aggressive rush using archers and sipahis ",
-    "creator": "Snoopa",
-    "civilizations": [
-      "Ottomans"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/ottomans",
       "units/battering-ram",
       "units/sipahi"
     ],
     "approved": true,
+    "tags": [
+      "Breakdown",
+      "Season 3"
+    ],
+    "creator": "Snoopa",
+    "civilizations": [
+      "Ottomans"
+    ],
+    "url": "https://www.youtube.com/watch?v=dUbuJhJZj9g",
     "featured": true,
+    "description": "Snoopa's breakdown of an Ottoman aggressive rush using archers and sipahis ",
     "youtube_data": {
       "title": "AOE4 | Ottoman Rush | Build Order In Action",
       "videoId": "dUbuJhJZj9g",
@@ -1814,5 +1815,183 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/dUbuJhJZj9g/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCxMb7qbRvRzUmtC4BH8WkHA"
+  },
+  {
+    "title": "French Feudal Rush build order",
+    "type": "Video",
+    "relatedItems": [
+      "civs/french"
+    ],
+    "approved": true,
+    "tags": [
+      "Build Order",
+      "Season2"
+    ],
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "French"
+    ],
+    "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
+    "featured": true,
+    "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
+    "youtube_data": {
+      "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
+      "videoId": "SO4wWmqtxbA",
+      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
+      "videoDuration": "521"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/SO4wWmqtxbA/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=credupLaiaI",
+    "type": "Video",
+    "tags": [
+      "Build Order",
+      "Guide"
+    ],
+    "title": "2 Minute Guide | French Civilization Build Orders",
+    "description": "Here's an AoE4 guide to the French in under 2 minutes. In this video, UglyGekko go over some of the most common French openings with consistent build orders that will give you a strong start in most games. The French are one of the best civs in Age of Empires 4 right now. They can apply heavy pressure in the earlygame with their royal knights and transition easily into a powerful mid and lategame.",
+    "creator": "UglyGekko",
+    "civilizations": [
+      "French"
+    ],
+    "relatedItems": [
+      "civs/french"
+    ],
+    "approved": true,
+    "youtube_data": {
+      "title": "2 Minute Guide | French Civilization Build Orders | Age of Empires 4",
+      "videoId": "credupLaiaI",
+      "channelId": "UCzA-g1eVn0OqwqHLC_U8bKQ",
+      "videoDuration": "140"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/credupLaiaI/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCzA-g1eVn0OqwqHLC_U8bKQ"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uavSC_yd3kI",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Guide"
+    ],
+    "title": "Everything you need to know about Mongol",
+    "description": "Everything you need to know about the Mongols in AoE4",
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Mongols"
+    ],
+    "relatedItems": [
+      "civs/mongols"
+    ],
+    "youtube_data": {
+      "title": "Everything you need to know about Mongol in AOE4",
+      "videoId": "uavSC_yd3kI",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "2952"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/uavSC_yd3kI/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=d2B6ugYxvwk",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Build Order"
+    ],
+    "title": "Mongol Fast Castle Build Order Guide",
+    "description": "Mongol Fast Castle Build Order Guide",
+    "creator": "Snoopa",
+    "civilizations": [
+      "Mongols"
+    ],
+    "relatedItems": [
+      "civs/mongols"
+    ],
+    "youtube_data": {
+      "title": "AOE4 | Build Order Guide: Mongol Fast Castle",
+      "videoId": "d2B6ugYxvwk",
+      "channelId": "UCxMb7qbRvRzUmtC4BH8WkHA",
+      "videoDuration": "1292"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/d2B6ugYxvwk/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCxMb7qbRvRzUmtC4BH8WkHA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lqkbyIwvMT8",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Build Order",
+      "Season2"
+    ],
+    "title": "Conqueror French Player Build Order Breakdown",
+    "description": "How does top players play French? Aussie Drongo dives in to discuss how DivineDFP plays them to great effect!",
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "French"
+    ],
+    "relatedItems": [
+      "frenh",
+      "civs/french"
+    ],
+    "youtube_data": {
+      "title": "Conqueror French Player Build Order Breakdown",
+      "videoId": "lqkbyIwvMT8",
+      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
+      "videoDuration": "1390"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/lqkbyIwvMT8/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q6KUN50lCpE",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Build Order"
+    ],
+    "title": "3 CLEAN Ottoman Build Orders for Your Ranked Games",
+    "description": "Aussie Drongo shows 3 Solid Build Orders for your Ottoman Games",
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "Ottomans"
+    ],
+    "relatedItems": [
+      "civs/ottomans"
+    ],
+    "youtube_data": {
+      "title": "3 CLEAN Ottoman Build Orders For Your Ranked Games",
+      "videoId": "Q6KUN50lCpE",
+      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
+      "videoDuration": "2184"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/Q6KUN50lCpE/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=V-XbTO0TZN4",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Guide"
+    ],
+    "title": "The Complete Beginner Guide to Age of Empires 4",
+    "description": "Spirit Of The Law breaks down the basics of Age of Empires 4, from Picking a Civ, managing your economy, to Victory Conditions",
+    "creator": "Spirit Of The Law",
+    "civilizations": [
+      "All"
+    ],
+    "youtube_data": {
+      "title": "The Complete Beginner Guide to Age of Empires 4",
+      "videoId": "V-XbTO0TZN4",
+      "channelId": "UChzLZJo-SxuPHz-oYKAIC_g",
+      "videoDuration": "869"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/V-XbTO0TZN4/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g"
   }
 ]
