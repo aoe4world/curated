@@ -332,7 +332,7 @@
     ],
     "approved": true,
     "tags": [
-      "Tips&Tricks",
+      "Tips & Tricks",
       "Fun"
     ],
     "creator": "Age of Noob",
@@ -359,7 +359,7 @@
     ],
     "approved": true,
     "tags": [
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "Age of Noob",
     "civilizations": [
@@ -382,7 +382,7 @@
     "type": "Video",
     "approved": true,
     "tags": [
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "Age of Noob",
     "civilizations": [
@@ -409,7 +409,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -436,7 +436,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -463,7 +463,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -490,7 +490,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -517,7 +517,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -545,7 +545,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -620,7 +620,7 @@
     "approved": true,
     "tags": [
       "Breakdown",
-      "Season2"
+      "Season 2"
     ],
     "creator": "AnMagicalCow",
     "civilizations": [
@@ -762,7 +762,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "Don Artie",
     "civilizations": [
@@ -813,7 +813,7 @@
     ],
     "approved": true,
     "tags": [
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "Don Artie",
     "civilizations": [
@@ -1033,7 +1033,7 @@
     "approved": true,
     "tags": [
       "Economy",
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "iNcog",
     "civilizations": [
@@ -1064,7 +1064,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "iNcog",
     "civilizations": [
@@ -1118,7 +1118,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "FitzBro",
     "civilizations": [
@@ -1145,7 +1145,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season2"
+      "Season 2"
     ],
     "creator": "FitzBro",
     "civilizations": [
@@ -1172,7 +1172,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season3"
+      "Season 3"
     ],
     "creator": "Aussie_Drongo",
     "civilizations": [
@@ -1199,7 +1199,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season3",
+      "Season 3",
       "Build Order"
     ],
     "creator": "Aussie_Drongo",
@@ -1254,7 +1254,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season3"
+      "Season 3"
     ],
     "creator": "Aussie_Drongo",
     "civilizations": [
@@ -1281,7 +1281,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season3"
+      "Season 3"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -1308,7 +1308,7 @@
     "approved": true,
     "tags": [
       "Guide",
-      "Season3"
+      "Season 3"
     ],
     "creator": "BeastyqtSC2",
     "civilizations": [
@@ -1337,7 +1337,7 @@
     "approved": true,
     "tags": [
       "Breakdown",
-      "Season3"
+      "Season 3"
     ],
     "creator": "Snoopa",
     "civilizations": [
@@ -1364,7 +1364,7 @@
     "approved": true,
     "tags": [
       "Build Order",
-      "Season2"
+      "Season 2"
     ],
     "creator": "Farm Man Official",
     "civilizations": [
@@ -1373,14 +1373,14 @@
     "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
     "featured": true,
     "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
       "videoId": "SO4wWmqtxbA",
       "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
       "videoDuration": "521"
     },
-    "thumbnail": "https://i.ytimg.com/vi/SO4wWmqtxbA/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+    "thumbnail": "https://i.ytimg.com/vi/SO4wWmqtxbA/maxresdefault.jpg"
   },
   {
     "title": "French Pro Scouts build order",
@@ -1401,14 +1401,14 @@
     "url": "https://www.youtube.com/watch?v=DLnjRrA1UdQ",
     "featured": true,
     "description": "Extend the French focus on cavalry by bringing the deer right to your doorstep.",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 French Build Order | PROFESSIONAL SCOUTS",
       "videoId": "DLnjRrA1UdQ",
       "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
       "videoDuration": "360"
     },
-    "thumbnail": "https://i.ytimg.com/vi/DLnjRrA1UdQ/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+    "thumbnail": "https://i.ytimg.com/vi/DLnjRrA1UdQ/maxresdefault.jpg"
   },
   {
     "title": "French Civilization Build Orders in 2 mins",
@@ -1454,14 +1454,14 @@
     "url": "https://www.youtube.com/watch?v=uavSC_yd3kI",
     "featured": true,
     "description": "Everything you need to know about the Mongols in AoE4",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Everything you need to know about Mongol in AOE4",
       "videoId": "uavSC_yd3kI",
       "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
       "videoDuration": "2952"
     },
-    "thumbnail": "https://i.ytimg.com/vi/uavSC_yd3kI/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+    "thumbnail": "https://i.ytimg.com/vi/uavSC_yd3kI/maxresdefault.jpg"
   },
   {
     "title": "Mongol Fast Castle Build Order Guide",
@@ -1499,7 +1499,7 @@
     "approved": true,
     "tags": [
       "Build Order",
-      "Season2"
+      "Season 2"
     ],
     "creator": "Aussie_Drongo",
     "civilizations": [
@@ -1642,14 +1642,14 @@
     "url": "https://www.youtube.com/watch?v=6P-kFXZp45U",
     "featured": true,
     "description": "Get an incredibly strong economy, with early wheelbarrow and double broadax, which will help with feudal aggression.",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 RUS Build Order",
       "videoId": "6P-kFXZp45U",
       "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
       "videoDuration": "496"
     },
-    "thumbnail": "https://i.ytimg.com/vi/6P-kFXZp45U/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+    "thumbnail": "https://i.ytimg.com/vi/6P-kFXZp45U/maxresdefault.jpg"
   },
   {
     "title": "Hands on History: The Crossbow",
@@ -1696,14 +1696,14 @@
     "url": "https://www.youtube.com/watch?v=IldK78OPkao",
     "featured": true,
     "description": "Good archer micro age of empires 4 can be the difference between winning a losing games and in this age of empires 4 beginners guide, we will be discussing all things related to archer micro. ",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "How to Archer MICRO | Age of Empires 4",
       "videoId": "IldK78OPkao",
       "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
       "videoDuration": "401"
     },
-    "thumbnail": "https://i.ytimg.com/vi/IldK78OPkao/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+    "thumbnail": "https://i.ytimg.com/vi/IldK78OPkao/maxresdefault.jpg"
   },
   {
     "title": "Introduction to The Rus ",
@@ -1926,7 +1926,7 @@
     ],
     "approved": true,
     "tags": [
-      "Tips&Tricks"
+      "Tips & Tricks"
     ],
     "creator": "FitzBro",
     "civilizations": [
@@ -1961,13 +1961,13 @@
     "url": "https://www.youtube.com/watch?v=rObnKGcVd8U",
     "featured": true,
     "description": "Learn how to use your scout to gather sheep, intel and more",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Scouting Guide for Age of Empires IV",
       "videoId": "rObnKGcVd8U",
       "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
       "videoDuration": "1561"
     },
-    "thumbnail": "https://i.ytimg.com/vi/rObnKGcVd8U/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+    "thumbnail": "https://i.ytimg.com/vi/rObnKGcVd8U/maxresdefault.jpg"
   }
 ]
