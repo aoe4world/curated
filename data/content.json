@@ -1832,9 +1832,9 @@
       "French"
     ],
     "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
       "videoId": "SO4wWmqtxbA",
@@ -1860,9 +1860,9 @@
       "French"
     ],
     "url": "https://www.youtube.com/watch?v=DLnjRrA1UdQ",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Extend the French focus on cavalry by bringing the deer right to your doorstep.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 French Build Order | PROFESSIONAL SCOUTS",
       "videoId": "DLnjRrA1UdQ",
@@ -1913,9 +1913,9 @@
       "Mongols"
     ],
     "url": "https://www.youtube.com/watch?v=uavSC_yd3kI",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "featured": true,
     "description": "Everything you need to know about the Mongols in AoE4",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Everything you need to know about Mongol in AOE4",
       "videoId": "uavSC_yd3kI",
@@ -2101,9 +2101,9 @@
       "Rus"
     ],
     "url": "https://www.youtube.com/watch?v=6P-kFXZp45U",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Get an incredibly strong economy, with early wheelbarrow and double broadax, which will help with feudal aggression.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 RUS Build Order",
       "videoId": "6P-kFXZp45U",
@@ -2155,9 +2155,9 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=IldK78OPkao",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Good archer micro age of empires 4 can be the difference between winning a losing games and in this age of empires 4 beginners guide, we will be discussing all things related to archer micro. ",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "How to Archer MICRO | Age of Empires 4",
       "videoId": "IldK78OPkao",
@@ -2420,9 +2420,9 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=rObnKGcVd8U",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "featured": true,
     "description": "Learn how to use your scout to gather sheep, intel and more",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Scouting Guide for Age of Empires IV",
       "videoId": "rObnKGcVd8U",
@@ -2434,6 +2434,10 @@
   {
     "title": "3 CRISP Malian Build Orders For Your Ranked Games",
     "type": "Video",
+    "relatedItems": [
+      "civs/malians"
+    ],
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks",
@@ -2448,10 +2452,6 @@
     ],
     "url": "https://youtu.be/GosVA_N9A7g",
     "description": "3 good build orders if you're learning the Malians",
-    "relatedItems": [
-      "civs/malians"
-    ],
-    "approved": true,
     "youtube_data": {
       "title": "3 CRISP Malian Build Orders For Your Ranked Games",
       "videoId": "GosVA_N9A7g",
@@ -2464,6 +2464,10 @@
   {
     "title": "French 2 TC Fast Expand Build",
     "type": "Video",
+    "relatedItems": [
+      "civs/french"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Season 3",
@@ -2474,11 +2478,8 @@
       "French"
     ],
     "url": "https://youtu.be/A3CSFWrP66k",
+    "featured": true,
     "description": "French Build designed to give players a quick second TC. Great for improving mechanics. Great for tricking opponents who blind counter knights that don't come immediately. ",
-    "approved": true,
-    "relatedItems": [
-      "civs/french"
-    ],
     "youtube_data": {
       "title": "My Home-Brewed French 2 TC Opening | AoE4",
       "videoId": "A3CSFWrP66k",
@@ -2487,5 +2488,144 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/A3CSFWrP66k/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "title": "How to get better at RTS games",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Discussion"
+    ],
+    "creator": "Blade55555",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vy3f9gg1_CA",
+    "description": "Blade55555 discussed, arguably the most important topic, how to get better at RTS games. ",
+    "youtube_data": {
+      "title": "How to get better at RTS games",
+      "videoId": "Vy3f9gg1_CA",
+      "channelId": "UCWjfCtIF-1_HnSJuHJ1Dl8g",
+      "videoDuration": "697"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/Vy3f9gg1_CA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgZSg_MA8=&rs=AOn4CLBf4crQ3U59-axqK3Pkc8aN1HzPdg",
+    "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
+  },
+  {
+    "title": "Follow this to become a conqueror! | Conquest to Conqueror | Chapter 1 | Blueprints",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "ICONIC Play",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=oTlW8mQc8nE",
+    "description": "In-depth Age of empires 4 beginners Guide from Bronze to Conqueror. \nThis guide is to help players at all levels, bronze, silver, gold, platinum, and Diamond reach conqueror. \nChapter 1: Blueprints",
+    "youtube_data": {
+      "title": "Follow this to become a conqueror! | AOE4 Guide | Conquest to Conqueror | Chapter 1 | Blueprints",
+      "videoId": "oTlW8mQc8nE",
+      "channelId": "UC9CWoCvgiP-GBwnHQGIRB2g",
+      "videoDuration": "230"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/oTlW8mQc8nE/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC9CWoCvgiP-GBwnHQGIRB2g"
+  },
+  {
+    "title": "How to use AoE4 Overlay & age4builder to display build orders",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order"
+    ],
+    "creator": "Crafty Salamander",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=R5t9P4-tMxg",
+    "description": "The AoE4 Overlay can show match data and build orders while playing.\nAll the build orders from age4builder.com are compatible, as demonstrated in this video.",
+    "youtube_data": {
+      "title": "AoE4 Overlay (1.4.0) & age4builder",
+      "videoId": "R5t9P4-tMxg",
+      "channelId": "UCogKxDPPkiHOG6qtl-LEkbQ",
+      "videoDuration": "343"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/R5t9P4-tMxg/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCogKxDPPkiHOG6qtl-LEkbQ"
+  },
+  {
+    "title": "6 Simple Things You Can Do To Get Better At AoE4",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=9ovvhWn9XRc",
+    "description": "6 Simple Things You Can Do To Get Better At AoE4",
+    "youtube_data": {
+      "title": "6 Simple Things You Can Do To Get Better At AoE4",
+      "videoId": "9ovvhWn9XRc",
+      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
+      "videoDuration": "923"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/9ovvhWn9XRc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDrSRgY536SjI6D_rzK6ENi2osyQ",
+    "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
+  },
+  {
+    "title": "How to Improve in Age of Empires IV?",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=civgDVrEbmw",
+    "description": "Beastyqt tells us some of his tips on how he improves at Age of Empires 4 and how you can too!",
+    "youtube_data": {
+      "title": "How to Improve in Age of Empires IV?",
+      "videoId": "civgDVrEbmw",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "2195"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/civgDVrEbmw/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "title": "How to play HRE in Age of Empires 4? (Season 3 Guide)",
+    "type": "Video",
+    "relatedItems": [
+      "civs/hre"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "HRE"
+    ],
+    "url": "https://www.youtube.com/watch?v=pLGRZkK5z_E",
+    "description": "Beastyqt shows in this updated guide for Season 3, how to play the HRE",
+    "youtube_data": {
+      "title": "How to play HRE in Age of Empires 4? (Season 3 Guide)",
+      "videoId": "pLGRZkK5z_E",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "1553"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/pLGRZkK5z_E/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   }
 ]

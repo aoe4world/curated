@@ -1371,9 +1371,9 @@
       "French"
     ],
     "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
       "videoId": "SO4wWmqtxbA",
@@ -1399,9 +1399,9 @@
       "French"
     ],
     "url": "https://www.youtube.com/watch?v=DLnjRrA1UdQ",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Extend the French focus on cavalry by bringing the deer right to your doorstep.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 French Build Order | PROFESSIONAL SCOUTS",
       "videoId": "DLnjRrA1UdQ",
@@ -1452,9 +1452,9 @@
       "Mongols"
     ],
     "url": "https://www.youtube.com/watch?v=uavSC_yd3kI",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "featured": true,
     "description": "Everything you need to know about the Mongols in AoE4",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Everything you need to know about Mongol in AOE4",
       "videoId": "uavSC_yd3kI",
@@ -1640,9 +1640,9 @@
       "Rus"
     ],
     "url": "https://www.youtube.com/watch?v=6P-kFXZp45U",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Get an incredibly strong economy, with early wheelbarrow and double broadax, which will help with feudal aggression.",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "Aoe4 RUS Build Order",
       "videoId": "6P-kFXZp45U",
@@ -1694,9 +1694,9 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=IldK78OPkao",
+    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "featured": true,
     "description": "Good archer micro age of empires 4 can be the difference between winning a losing games and in this age of empires 4 beginners guide, we will be discussing all things related to archer micro. ",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
     "youtube_data": {
       "title": "How to Archer MICRO | Age of Empires 4",
       "videoId": "IldK78OPkao",
@@ -1959,9 +1959,9 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=rObnKGcVd8U",
+    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "featured": true,
     "description": "Learn how to use your scout to gather sheep, intel and more",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
     "youtube_data": {
       "title": "Scouting Guide for Age of Empires IV",
       "videoId": "rObnKGcVd8U",
@@ -1969,5 +1969,33 @@
       "videoDuration": "1561"
     },
     "thumbnail": "https://i.ytimg.com/vi/rObnKGcVd8U/maxresdefault.jpg"
+  },
+  {
+    "title": "French 2 TC Fast Expand Build",
+    "type": "Video",
+    "relatedItems": [
+      "civs/french"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Season 3",
+      "Build Order"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "French"
+    ],
+    "url": "https://youtu.be/A3CSFWrP66k",
+    "featured": true,
+    "description": "French Build designed to give players a quick second TC. Great for improving mechanics. Great for tricking opponents who blind counter knights that don't come immediately. ",
+    "youtube_data": {
+      "title": "My Home-Brewed French 2 TC Opening | AoE4",
+      "videoId": "A3CSFWrP66k",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "1114"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/A3CSFWrP66k/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   }
 ]
