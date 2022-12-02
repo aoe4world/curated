@@ -2627,5 +2627,162 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/pLGRZkK5z_E/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "title": "How to play Against Zhuge Nu Ram Push",
+    "type": "Video",
+    "relatedItems": [
+      "civs/chinese",
+      "civs/abbasid",
+      "units/zhuge-nu"
+    ],
+    "approved": true,
+    "tags": [
+      "Coaching",
+      "Beginner"
+    ],
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "Chinese",
+      "Abbasid"
+    ],
+    "url": "https://www.youtube.com/watch?v=Y-uc9wG37BU",
+    "creator_url": "https://www.youtube.com/c/AussieDrongo",
+    "description": "Zhuge Nu push with Chinese is super effective right now, and a Redditor thought it was way too OP. Aussie Drongo breaks down what the redditor did wrong, and how YOU can beat the Chinese Zhuge Nu push.",
+    "youtube_data": {
+      "title": "Redditor: \"I'm shelving the game until THIS is fixed\"",
+      "videoId": "Y-uc9wG37BU",
+      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
+      "videoDuration": "1687"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/Y-uc9wG37BU/maxresdefault.jpg"
+  },
+  {
+    "title": "How to Play 2TC English",
+    "type": "Video",
+    "relatedItems": [
+      "civs/english"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "English"
+    ],
+    "url": "https://www.youtube.com/watch?v=NCqRIq_kiDY",
+    "description": "Beasty shows how to play the English with 2TC.",
+    "youtube_data": {
+      "title": "How to Play 2TC English in AOE4? (Season 3 Guide)",
+      "videoId": "NCqRIq_kiDY",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "1078"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/NCqRIq_kiDY/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "title": "The 3 best warm-ups to achieving a higher rank ",
+    "type": "Video",
+    "creator": "ICONIC Play",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
+    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
+    "approved": true,
+    "featured": true,
+    "youtube_data": {
+      "title": "The 3 best warm-ups to achieving a higher rank | Age of empires 4 | Guide | Conquest to Conqueror",
+      "videoId": "K1wr25x_gLY",
+      "channelId": "UC9CWoCvgiP-GBwnHQGIRB2g",
+      "videoDuration": "224"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/K1wr25x_gLY/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC9CWoCvgiP-GBwnHQGIRB2g"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OT7hp8fQcc0",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Breakdown"
+    ],
+    "title": "Incredibly Effective Malian Tactics",
+    "description": "iNcog breaks down one of FitzBro's Malians games",
+    "creator": "iNcog",
+    "civilizations": [
+      "Malians"
+    ],
+    "relatedItems": [
+      "civs/malians",
+      "civs/french"
+    ],
+    "youtube_data": {
+      "title": "Incredibly Effective Malian Tactics | AoE4",
+      "videoId": "OT7hp8fQcc0",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "1491"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/OT7hp8fQcc0/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=souB1CKfQuk",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "title": "How to Tower Rush with Mongols",
+    "description": "The most despised tactic in AoE4.. The Tower Rush.. Beastyqt teaches you how to do it too! Why must you do this Beasty..",
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Mongols"
+    ],
+    "relatedItems": [
+      "civs/mongols"
+    ],
+    "youtube_data": {
+      "title": "How to Tower Rush with Mongols in AOE4? (Season 3 Guide)",
+      "videoId": "souB1CKfQuk",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "2900"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/souB1CKfQuk/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9hVBHZIqAh4",
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "title": "How to play Delhi Tower of Victory",
+    "description": "Tower of Victory is one of Delhi's Feudal Landmarks, it hasn't seen much play but recently it's been getting more play. Beastyqt teaches you how and why",
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Delhi"
+    ],
+    "relatedItems": [
+      "civs/delhi",
+      "civs/delhi/buildings/tower-of-victory"
+    ],
+    "approved": true,
+    "youtube_data": {
+      "title": "How to Play Delhi Tower of Victory  in AOE4? (Season 3 Guide)",
+      "videoId": "9hVBHZIqAh4",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "1684"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/9hVBHZIqAh4/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   }
 ]
