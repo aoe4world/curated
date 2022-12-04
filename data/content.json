@@ -1954,7 +1954,6 @@
     "title": "Conqueror French Player Build Order Breakdown",
     "type": "Video",
     "relatedItems": [
-      "frenh",
       "civs/french"
     ],
     "approved": true,
@@ -2687,14 +2686,18 @@
   {
     "title": "The 3 best warm-ups to achieving a higher rank ",
     "type": "Video",
+    "approved": true,
     "creator": "ICONIC Play",
     "civilizations": [
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
-    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
-    "approved": true,
     "featured": true,
+    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
+    "tags": [
+      "Guide",
+      "Tips & Tricks"
+    ],
     "youtube_data": {
       "title": "The 3 best warm-ups to achieving a higher rank | Age of empires 4 | Guide | Conquest to Conqueror",
       "videoId": "K1wr25x_gLY",
@@ -2705,22 +2708,22 @@
     "creator_url": "https://youtube.com/channel/UC9CWoCvgiP-GBwnHQGIRB2g"
   },
   {
-    "url": "https://www.youtube.com/watch?v=OT7hp8fQcc0",
-    "approved": true,
-    "type": "Video",
-    "tags": [
-      "Breakdown"
-    ],
     "title": "Incredibly Effective Malian Tactics",
-    "description": "iNcog breaks down one of FitzBro's Malians games",
-    "creator": "iNcog",
-    "civilizations": [
-      "Malians"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/malians",
       "civs/french"
     ],
+    "approved": true,
+    "tags": [
+      "Breakdown"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "Malians"
+    ],
+    "url": "https://www.youtube.com/watch?v=OT7hp8fQcc0",
+    "description": "iNcog breaks down one of FitzBro's Malians games",
     "youtube_data": {
       "title": "Incredibly Effective Malian Tactics | AoE4",
       "videoId": "OT7hp8fQcc0",
@@ -2731,23 +2734,23 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=souB1CKfQuk",
-    "approved": true,
+    "title": "How to Tower Rush with Mongols",
     "type": "Video",
+    "relatedItems": [
+      "civs/mongols"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 3"
     ],
-    "title": "How to Tower Rush with Mongols",
-    "description": "The most despised tactic in AoE4.. The Tower Rush.. Beastyqt teaches you how to do it too! Why must you do this Beasty..",
     "creator": "BeastyqtSC2",
     "civilizations": [
       "Mongols"
     ],
-    "relatedItems": [
-      "civs/mongols"
-    ],
+    "url": "https://www.youtube.com/watch?v=souB1CKfQuk",
+    "description": "The most despised tactic in AoE4.. The Tower Rush.. Beastyqt teaches you how to do it too! Why must you do this Beasty..",
     "youtube_data": {
       "title": "How to Tower Rush with Mongols in AOE4? (Season 3 Guide)",
       "videoId": "souB1CKfQuk",
@@ -2758,24 +2761,24 @@
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=9hVBHZIqAh4",
-    "type": "Video",
-    "tags": [
-      "Guide",
-      "Build Order",
-      "Season 3"
-    ],
     "title": "How to play Delhi Tower of Victory",
-    "description": "Tower of Victory is one of Delhi's Feudal Landmarks, it hasn't seen much play but recently it's been getting more play. Beastyqt teaches you how and why",
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Delhi"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/delhi",
       "civs/delhi/buildings/tower-of-victory"
     ],
     "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Delhi"
+    ],
+    "url": "https://www.youtube.com/watch?v=9hVBHZIqAh4",
+    "description": "Tower of Victory is one of Delhi's Feudal Landmarks, it hasn't seen much play but recently it's been getting more play. Beastyqt teaches you how and why",
     "youtube_data": {
       "title": "How to Play Delhi Tower of Victory  in AOE4? (Season 3 Guide)",
       "videoId": "9hVBHZIqAh4",
@@ -2784,5 +2787,81 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/9hVBHZIqAh4/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "title": "How to defend against Tower Rushes",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=y7_FNCpJhPs",
+    "description": "The most despised tactic in AoE4.. The Tower Rush.. iNcog talks about how to defend against them",
+    "youtube_data": {
+      "title": "An Easier Approach (All Civilizations*) | AoE4",
+      "videoId": "y7_FNCpJhPs",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "585"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/y7_FNCpJhPs/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "title": "Chinese Zhuge Nu Rush Build Order",
+    "type": "Video",
+    "relatedItems": [
+      "units/zhuge-nu"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order"
+    ],
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "Chinese"
+    ],
+    "url": "https://www.youtube.com/watch?v=5oPQcMfw5_Y",
+    "description": "The goal of this aoe4 chinese build order is to have a constant production of a supervised archer range of zhuge nu by 6 minutes. You can delay this to 7 minutes if you wish to have a total of 4 imperial officials in your economy.",
+    "youtube_data": {
+      "title": "Aoe4 | Chinese Zhuge Nu Rush Build Order",
+      "videoId": "5oPQcMfw5_Y",
+      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
+      "videoDuration": "496"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/5oPQcMfw5_Y/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "title": "Fastest 2nd TC Rus?",
+    "type": "Video",
+    "relatedItems": [
+      "civs/rus"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 3"
+    ],
+    "creator": "Blade55555",
+    "civilizations": [
+      "Rus"
+    ],
+    "url": "https://www.youtube.com/watch?v=5F4AHxhqA6g",
+    "featured": true,
+    "description": "Here is a guide to the fastest 2nd TC that I am aware of for Rus. I do go over a bit of the transition period. I can't remember if I said it in the video, but thanks to Anomie for giving me this build order and hope it helps all you Rus players out there!",
+    "youtube_data": {
+      "title": "[AOE4][Guide] Fastest 2nd TC Rus?",
+      "videoId": "5F4AHxhqA6g",
+      "channelId": "UCWjfCtIF-1_HnSJuHJ1Dl8g",
+      "videoDuration": "896"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/5F4AHxhqA6g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChHMA8=&rs=AOn4CLAkrcl1oijSsnZY7ANnDVm1J8zdeg",
+    "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
   }
 ]
