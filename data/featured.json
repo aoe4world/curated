@@ -401,170 +401,6 @@
     "thumbnail": "https://i.ytimg.com/vi/sw2Hi6OWwjY/maxresdefault.jpg"
   },
   {
-    "title": "How to Play English in AOE4? (Season 2 Guide)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/english"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "English"
-    ],
-    "url": "https://www.youtube.com/watch?v=25zQ2lAUsr4",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the English",
-    "youtube_data": {
-      "title": "How to Play English in AOE4? (Season 2 Guide)",
-      "videoId": "25zQ2lAUsr4",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "1676"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/25zQ2lAUsr4/maxresdefault.jpg"
-  },
-  {
-    "title": "How to Play French in AOE4? (Season 2 Guide)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/french"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "French"
-    ],
-    "url": "https://www.youtube.com/watch?v=aoZ2ibVMmes",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the French",
-    "youtube_data": {
-      "title": "How to Play French in AOE4? (Season 2 Guide)",
-      "videoId": "aoZ2ibVMmes",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "1744"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/aoZ2ibVMmes/maxresdefault.jpg"
-  },
-  {
-    "title": "How to Play Mongol in Age of Empires 4? (Season 2 Guide)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/mongols"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Mongols"
-    ],
-    "url": "https://www.youtube.com/watch?v=rrl7brRJK78",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Mongols",
-    "youtube_data": {
-      "title": "How to Play Mongol in Age of Empires 4? (Season 2 Guide)",
-      "videoId": "rrl7brRJK78",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "2953"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/rrl7brRJK78/maxresdefault.jpg"
-  },
-  {
-    "title": "How to Play Rus in Age of Empires 4? (Season 2 Guide)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/rus"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Rus"
-    ],
-    "url": "https://www.youtube.com/watch?v=zpKWnN-inPE",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Rus",
-    "youtube_data": {
-      "title": "How to Play Rus in Age of Empires 4? (Season 2 Guide)",
-      "videoId": "zpKWnN-inPE",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "2818"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/zpKWnN-inPE/maxresdefault.jpg"
-  },
-  {
-    "title": "How to play Abbasid and Delhi in AOE4? (Season 2 Guides)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/abbasid"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Abbasid",
-      "Delhi"
-    ],
-    "url": "https://www.youtube.com/watch?v=egOtzsbo4pg",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Abbasids and Delhi",
-    "youtube_data": {
-      "title": "How to play Abbasid and Delhi in AOE4? (Season 2 Guides)",
-      "videoId": "egOtzsbo4pg",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "2491"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/egOtzsbo4pg/maxresdefault.jpg"
-  },
-  {
-    "title": "How to play HRE and Chinese in AOE4? (Season 2 Guides)",
-    "type": "Video",
-    "relatedItems": [
-      "civs/hre"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 2"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "HRE",
-      "Chinese"
-    ],
-    "url": "https://www.youtube.com/watch?v=uQtJ8jkSDOw",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows in this updated guide for Season 2, how to play the Holy Roman Empire and Chinese",
-    "youtube_data": {
-      "title": "How to play HRE and Chinese in AOE4? (Season 2 Guides)",
-      "videoId": "uQtJ8jkSDOw",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "3107"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/uQtJ8jkSDOw/maxresdefault.jpg"
-  },
-  {
     "title": "AOE 4 BEGINNER GUIDE FOR THE MIDGAME",
     "type": "Video",
     "approved": true,
@@ -612,33 +448,6 @@
     "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
   },
   {
-    "title": "Rus Age 2 Tower Rush Breakdown",
-    "type": "Video",
-    "relatedItems": [
-      "civs/rus"
-    ],
-    "approved": true,
-    "tags": [
-      "Breakdown",
-      "Season 2"
-    ],
-    "creator": "AnMagicalCow",
-    "civilizations": [
-      "Rus"
-    ],
-    "url": "https://www.youtube.com/watch?v=9sSXWNKWbxE",
-    "creator_url": "https://www.youtube.com/c/anmagicalcow",
-    "featured": true,
-    "description": "Rus is maybe not the first civilization you think of when you hear \"Tower Rush\". With a more expensive tower aswell as their heavy reliance on wood. However, with textiles, 8 villagers and their hammers, and a greedy opponent; A well place tower can easily make them GG early. Lets learn how!",
-    "youtube_data": {
-      "title": "kauP vs BeastyQT -  Rus Tower \"Rush\" Breakdown",
-      "videoId": "9sSXWNKWbxE",
-      "channelId": "UChnfSBYk5mq33nOdMW4phxQ",
-      "videoDuration": "573"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/9sSXWNKWbxE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShCMA8=&rs=AOn4CLDdlm0fNwfkd-zicNc9AvxssJHn9w"
-  },
-  {
     "title": "Abbasid guide against English",
     "type": "Video",
     "relatedItems": [
@@ -682,33 +491,6 @@
     "url": "https://docs.google.com/document/d/1C384_8-a4Q24kzqJvIh3HDCzfPRHTNbcTj5lh-7IuPg/edit",
     "featured": true,
     "description": "Blade55555 writes about how to play the Abbasid and discusses different matchups, aswell as when to go 2 TC and how."
-  },
-  {
-    "title": "Trebuchet Accuracy in AoE4!",
-    "type": "Video",
-    "relatedItems": [
-      "units/counterweight-trebuchet",
-      "mongols/units/traction-trebuchet"
-    ],
-    "approved": true,
-    "tags": [
-      "Military"
-    ],
-    "creator": "Age of Noob",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=URhe8zv8Rjc",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Our fellow creator Aussie Drongo asked a question in one of his recent videos regarding Trebuchet accuracy against smaller buildings. Well, here's a full analysis on its accuracy mechanics!",
-    "youtube_data": {
-      "title": "Trebuchet Accuracy in AoE4! (Aussie Drongo's Question)",
-      "videoId": "URhe8zv8Rjc",
-      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
-      "videoDuration": "283"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/URhe8zv8Rjc/maxresdefault.jpg"
   },
   {
     "title": "Don Artie Strategy Guide/Test",
@@ -1149,7 +931,7 @@
     ],
     "creator": "FitzBro",
     "civilizations": [
-      "Abbasid"
+      "Mongols"
     ],
     "url": "https://www.youtube.com/watch?v=CIrsYX7M4nM",
     "featured": true,
@@ -1162,198 +944,6 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/CIrsYX7M4nM/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
-  },
-  {
-    "title": "The Ultimate Chinese Guide",
-    "type": "Video",
-    "relatedItems": [
-      "civs/chinese"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 3"
-    ],
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "Chinese"
-    ],
-    "url": "https://www.youtube.com/watch?v=RbIUxieUMVU",
-    "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "featured": true,
-    "description": "Aussie Drongo is a nutoriuos Chinese main... Drongo talks about everything China; Strategy, Unit Compositions, Civ Matchups, Map Strats, Base Building and much much more!",
-    "youtube_data": {
-      "title": "AoE4 - The Ultimate Chinese Guide [Season 3]",
-      "videoId": "RbIUxieUMVU",
-      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
-      "videoDuration": "4730"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/RbIUxieUMVU/maxresdefault.jpg"
-  },
-  {
-    "title": "How To Do The \"Overpowered\" China Strategy",
-    "type": "Video",
-    "relatedItems": [
-      "civs/chinese"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 3",
-      "Build Order"
-    ],
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "Chinese"
-    ],
-    "url": "https://www.youtube.com/watch?v=O1-mFMYiMWY",
-    "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "featured": true,
-    "description": "Aussie Drongo is a nutoriuos Chinese main... In this video he talk about a Fast Song Dynasty, Zhuge Nu timing push, to help you climb the ladder!",
-    "youtube_data": {
-      "title": "How To Do The \"Overpowered\" China Strategy",
-      "videoId": "O1-mFMYiMWY",
-      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
-      "videoDuration": "1686"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/O1-mFMYiMWY/maxresdefault.jpg"
-  },
-  {
-    "title": "How Strong are the Ottoman Janissaries in AoE4?",
-    "type": "Video",
-    "relatedItems": [
-      "ottomans/units/janissary",
-      "civs/ottomans"
-    ],
-    "approved": true,
-    "tags": [
-      "Military"
-    ],
-    "creator": "Age of Noob",
-    "civilizations": [
-      "Ottomans"
-    ],
-    "url": "https://www.youtube.com/watch?v=MedNbpdY2YI",
-    "creator_url": "https://www.youtube.com/c/ageofnoob",
-    "featured": true,
-    "description": "The Ottoman Janissaries have been a controversial unit since their introduction in Age of Empires 4, but how good are they? Let's find out!",
-    "youtube_data": {
-      "title": "How Strong are the Ottoman Janissaries in AoE4?",
-      "videoId": "MedNbpdY2YI",
-      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
-      "videoDuration": "948"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/MedNbpdY2YI/maxresdefault.jpg"
-  },
-  {
-    "title": "This Best Ottoman Build Order In AoE4",
-    "type": "Video",
-    "relatedItems": [
-      "civs/ottomans"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 3"
-    ],
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "Ottomans"
-    ],
-    "url": "https://www.youtube.com/watch?v=Cl105QMHD9U",
-    "creator_url": "https://www.youtube.com/c/AussieDrongo",
-    "featured": true,
-    "description": "Aussie Drongo is here to show you a super good Build Order, that works on every map and every civ! ",
-    "youtube_data": {
-      "title": "This Best Ottoman Build Order In AoE4",
-      "videoId": "Cl105QMHD9U",
-      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
-      "videoDuration": "861"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/Cl105QMHD9U/maxresdefault.jpg"
-  },
-  {
-    "title": "How to Play Malians in Age of Empires 4?",
-    "type": "Video",
-    "relatedItems": [
-      "civs/malians"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 3"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Malians"
-    ],
-    "url": "https://www.youtube.com/watch?v=oiBuqv4o2X0",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows you the basics of how to play the Malians",
-    "youtube_data": {
-      "title": "How to play Malians in Age of Empires 4? (Season 3 Guide)",
-      "videoId": "oiBuqv4o2X0",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "1916"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/oiBuqv4o2X0/maxresdefault.jpg"
-  },
-  {
-    "title": "How to Play Ottomans in Age of Empires 4?",
-    "type": "Video",
-    "relatedItems": [
-      "civs/ottomans"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Season 3"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Ottomans"
-    ],
-    "url": "https://www.youtube.com/watch?v=ZC4m366OHUA",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Beastyqt shows you the basics of how to play the Ottomans",
-    "youtube_data": {
-      "title": "How to play Ottomans in Age of Empires 4? (Season 3 Guide)",
-      "videoId": "ZC4m366OHUA",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "1645"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/ZC4m366OHUA/maxresdefault.jpg"
-  },
-  {
-    "title": "Ottoman Archer and Sipahi Ram Rush",
-    "type": "Video",
-    "relatedItems": [
-      "civs/ottomans",
-      "units/battering-ram",
-      "units/sipahi"
-    ],
-    "approved": true,
-    "tags": [
-      "Breakdown",
-      "Season 3"
-    ],
-    "creator": "Snoopa",
-    "civilizations": [
-      "Ottomans"
-    ],
-    "url": "https://www.youtube.com/watch?v=dUbuJhJZj9g",
-    "featured": true,
-    "description": "Snoopa's breakdown of an Ottoman aggressive rush using archers and sipahis ",
-    "youtube_data": {
-      "title": "AOE4 | Ottoman Rush | Build Order In Action",
-      "videoId": "dUbuJhJZj9g",
-      "channelId": "UCxMb7qbRvRzUmtC4BH8WkHA",
-      "videoDuration": "1045"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/dUbuJhJZj9g/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCxMb7qbRvRzUmtC4BH8WkHA"
   },
   {
     "title": "French Feudal Rush build order",
@@ -1372,8 +962,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
     "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "featured": true,
     "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
+    "featured": true,
     "youtube_data": {
       "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
       "videoId": "SO4wWmqtxbA",
@@ -1490,60 +1080,6 @@
     "creator_url": "https://youtube.com/channel/UCxMb7qbRvRzUmtC4BH8WkHA"
   },
   {
-    "title": "Conqueror French Player Build Order Breakdown",
-    "type": "Video",
-    "relatedItems": [
-      "civs/french"
-    ],
-    "approved": true,
-    "tags": [
-      "Build Order",
-      "Season 2"
-    ],
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "French"
-    ],
-    "url": "https://www.youtube.com/watch?v=lqkbyIwvMT8",
-    "featured": true,
-    "description": "How does top players play French? Aussie Drongo dives in to discuss how DivineDFP plays them to great effect!",
-    "youtube_data": {
-      "title": "Conqueror French Player Build Order Breakdown",
-      "videoId": "lqkbyIwvMT8",
-      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
-      "videoDuration": "1390"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/lqkbyIwvMT8/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
-  },
-  {
-    "title": "3 Ottoman Build Orders for Ranked 1v1",
-    "type": "Video",
-    "relatedItems": [
-      "civs/ottomans"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Build Order"
-    ],
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "Ottomans"
-    ],
-    "url": "https://www.youtube.com/watch?v=Q6KUN50lCpE",
-    "featured": true,
-    "description": "Aussie Drongo shows 3 Solid Build Orders for your Ottoman Games",
-    "youtube_data": {
-      "title": "3 CLEAN Ottoman Build Orders For Your Ranked Games",
-      "videoId": "Q6KUN50lCpE",
-      "channelId": "UC0IMY7nkVsUimZDMAWWcDsg",
-      "videoDuration": "2184"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/Q6KUN50lCpE/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
-  },
-  {
     "title": "The Complete Beginner Guide to Age of Empires 4",
     "type": "Video",
     "approved": true,
@@ -1556,8 +1092,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=V-XbTO0TZN4",
-    "featured": true,
     "description": "Spirit Of The Law breaks down the basics of Age of Empires 4, from Picking a Civ, managing your economy, to Victory Conditions",
+    "featured": true,
     "youtube_data": {
       "title": "The Complete Beginner Guide to Age of Empires 4",
       "videoId": "V-XbTO0TZN4",
@@ -1625,86 +1161,6 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "title": "Rus early efficient economy build order",
-    "type": "Video",
-    "relatedItems": [
-      "civs/rus"
-    ],
-    "approved": true,
-    "tags": [
-      "Build Order"
-    ],
-    "creator": "Farm Man Official",
-    "civilizations": [
-      "Rus"
-    ],
-    "url": "https://www.youtube.com/watch?v=6P-kFXZp45U",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "featured": true,
-    "description": "Get an incredibly strong economy, with early wheelbarrow and double broadax, which will help with feudal aggression.",
-    "youtube_data": {
-      "title": "Aoe4 RUS Build Order",
-      "videoId": "6P-kFXZp45U",
-      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
-      "videoDuration": "496"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/6P-kFXZp45U/maxresdefault.jpg"
-  },
-  {
-    "title": "Hands on History: The Crossbow",
-    "type": "Video",
-    "relatedItems": [
-      "units/crossbowman"
-    ],
-    "approved": true,
-    "tags": [
-      "History"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=AED0NqyWHJg",
-    "featured": true,
-    "description": "Go back in time and watch as experts wield the crossbow — a powerful weapon that dominated warfare in the 14th century Norman period. Stronger, and with cheaper ammunition than the longbow, crossbows were the weapon of choice to turn the tide of battle.",
-    "youtube_data": {
-      "title": "HANDS ON HISTORY - THE CROSSBOW",
-      "videoId": "AED0NqyWHJg",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "177"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/AED0NqyWHJg/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "How to micro archers",
-    "type": "Video",
-    "relatedItems": [
-      "units/archer",
-      "units/longbowman"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Military"
-    ],
-    "creator": "Farm Man Official",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=IldK78OPkao",
-    "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "featured": true,
-    "description": "Good archer micro age of empires 4 can be the difference between winning a losing games and in this age of empires 4 beginners guide, we will be discussing all things related to archer micro. ",
-    "youtube_data": {
-      "title": "How to Archer MICRO | Age of Empires 4",
-      "videoId": "IldK78OPkao",
-      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
-      "videoDuration": "401"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/IldK78OPkao/maxresdefault.jpg"
-  },
-  {
     "title": "Introduction to The Rus ",
     "type": "Video",
     "relatedItems": [
@@ -1721,8 +1177,8 @@
       "Rus"
     ],
     "url": "https://www.youtube.com/watch?v=M_iZWJ_7VcM",
-    "featured": true,
     "description": "The advantage of playing the Rus is that the wilderness is yours to command. By using your surroundings, particularly gathering resources, you can build up a strong economy quickly. In battle, the Rus are known for their mounted Warrior Monk that can buff surrounding units, and for the Streltsy, a powerful gunpowder unit. ",
+    "featured": true,
     "youtube_data": {
       "title": "Age of Empires IV - The Rus",
       "videoId": "M_iZWJ_7VcM",
@@ -2001,6 +1457,10 @@
     "title": "The 3 best warm-ups to achieving a higher rank ",
     "type": "Video",
     "approved": true,
+    "tags": [
+      "Guide",
+      "Tips & Tricks"
+    ],
     "creator": "ICONIC Play",
     "civilizations": [
       "All"
@@ -2008,10 +1468,6 @@
     "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
     "featured": true,
     "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
-    "tags": [
-      "Guide",
-      "Tips & Tricks"
-    ],
     "youtube_data": {
       "title": "The 3 best warm-ups to achieving a higher rank | Age of empires 4 | Guide | Conquest to Conqueror",
       "videoId": "K1wr25x_gLY",
@@ -2048,5 +1504,185 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/5F4AHxhqA6g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChHMA8=&rs=AOn4CLAkrcl1oijSsnZY7ANnDVm1J8zdeg",
     "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
+  },
+  {
+    "title": "How To Defend Tower Rush For Low Elo",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Military",
+      "Guide",
+      "Season 3"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://youtu.be/y7_FNCpJhPs",
+    "featured": true,
+    "description": "Alternative means to defeat a tower rush if you aren't at Conqueror and have more time to work with. ",
+    "youtube_data": {
+      "title": "An Easier Approach (All Civilizations*) | AoE4",
+      "videoId": "y7_FNCpJhPs",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "585"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/y7_FNCpJhPs/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "title": "4 Tips For Min-Maxing Your Eco",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Economy",
+      "Tips & Tricks"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://youtu.be/YBwJaC1hAqg",
+    "featured": true,
+    "description": "Tips for maximizing the efficiency of villagers and traders. This mostly involves decreasing idle, non-gathering villager time. ",
+    "youtube_data": {
+      "title": "I Learned These Recently, So Should You | AoE4",
+      "videoId": "YBwJaC1hAqg",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "394"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/YBwJaC1hAqg/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "title": "Dealing with Malian Farimba",
+    "type": "Video",
+    "relatedItems": [
+      "civs/malians",
+      "buildings/farimba-garrison"
+    ],
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "Blade55555",
+    "civilizations": [
+      "All",
+      "Malians"
+    ],
+    "url": "https://www.youtube.com/watch?v=FOERgxkszdk",
+    "featured": true,
+    "description": "In this guide Blade55555 goes over 3 replays, with 3 different civs and 3 different players to showcase how to beat the Farimba Garison style of play.",
+    "youtube_data": {
+      "title": "[AOE4][Guide] Dealing with Malian Farimba",
+      "videoId": "FOERgxkszdk",
+      "channelId": "UCWjfCtIF-1_HnSJuHJ1Dl8g",
+      "videoDuration": "2035"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/FOERgxkszdk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihCMA8=&rs=AOn4CLBYm3_tmrTvBuNrURlB0ZTFD90p1w",
+    "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
+  },
+  {
+    "title": "Perfectly executed Mongol Tower Rush",
+    "type": "Video",
+    "relatedItems": [
+      "civs/mongols",
+      "mongols/buildings/outpost"
+    ],
+    "approved": true,
+    "tags": [
+      "Season 3",
+      "Build Order"
+    ],
+    "creator": "iNcog",
+    "civilizations": [
+      "Mongols"
+    ],
+    "url": "https://www.youtube.com/watch?v=nax45DiMzB8",
+    "featured": true,
+    "description": "How to play the quintessential Mongol strategy, rushing spearman and towering your opponent's essential resources.",
+    "youtube_data": {
+      "title": "Mongol Tower Rush (Season 3 Build Order) | AoE4",
+      "videoId": "nax45DiMzB8",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "809"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/nax45DiMzB8/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=v4P8cA8RlsI",
+    "approved": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Discussion",
+      "Beginner"
+    ],
+    "title": "iNcog's AoE4 Masterclass 1.2 - Basic Macro",
+    "description": "This Masterclass focuses on the basics of proper economic management in AoE4. This is commonly referred to as \"macro\". We're looking to introduce this concept to beginner players for AoE4. The goal of this video is to show which considerations go into doing the following tasks: - Spending resources, - Villager production, - Housing... Essentially, you need to constantly shift your attention back to your economy. At no point in the game should your macro be neglected. You need to circle back to your economy on an ongoing basis. As demonstrated in this video, it can be a lot less APM intensive than it seems. ",
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "featured": true,
+    "youtube_data": {
+      "title": "AoE4 Masterclass I.2 - Basic Macro",
+      "videoId": "v4P8cA8RlsI",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "1101"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/v4P8cA8RlsI/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gMQAXVUrzpo",
+    "approved": true,
+    "title": "iNcog's AoE4 Masterclass 1.3 - Introduction To Military Units",
+    "featured": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Discussion",
+      "Beginner"
+    ],
+    "description": "This Masterclass focuses on the introduction of classic AoE4 Units that you will encounter.",
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "youtube_data": {
+      "title": "AoE4 Masterclass I.3 - Introduction To Military Units",
+      "videoId": "gMQAXVUrzpo",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "486"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/gMQAXVUrzpo/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=f9D8kQ9pgHg",
+    "approved": true,
+    "featured": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Discussion",
+      "Beginner"
+    ],
+    "title": "iNcog's AoE4 Masterclass 1.4 - How Damage is Calculated",
+    "description": "This Masterclass focuses on the basics of damage calculations in AoE4. Most of the math is shown in the video, but there are some other situations where things can be more complicated (e.g. Janissaries take extra 50% ranged damage. How is that calculated? Well I'm not going to explain it here there's NO TIME omg). ",
+    "creator": "iNcog",
+    "civilizations": [
+      "All"
+    ],
+    "youtube_data": {
+      "title": "AoE4 Masterclass I.4 - How Damage Is Calculated",
+      "videoId": "f9D8kQ9pgHg",
+      "channelId": "UC-DHu5ZTfeF_-audDbx8JMA",
+      "videoDuration": "319"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/f9D8kQ9pgHg/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   }
 ]
