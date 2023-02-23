@@ -3206,6 +3206,10 @@
     ],
     "url": "https://youtu.be/mf2_PhCeX9o",
     "description": "A build order guide for an aoe4 English Abbey of Kings opening.",
+    "tags": [
+      "Season 4",
+      "Build Order"
+    ],
     "youtube_data": {
       "title": "Abbey Of KINGS | Aoe4 English Build Order",
       "videoId": "mf2_PhCeX9o",
@@ -3225,6 +3229,10 @@
     ],
     "url": "https://youtu.be/DvkzWYIllmA",
     "description": "An aoe4 french build order guide for season 4",
+    "tags": [
+      "Season 4",
+      "Build Order"
+    ],
     "youtube_data": {
       "title": "Aoe4 | French Trade Build Order",
       "videoId": "DvkzWYIllmA",
@@ -3237,19 +3245,19 @@
   {
     "title": "Getting food income from farms built en mass generating quicker. ",
     "type": "Shorts",
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks",
       "Comparison"
     ],
+    "creator": "MarZhillMagnus ",
     "civilizations": [
       "All"
     ],
     "url": "https://www.youtube.com/shorts/rom60r0BX5Y",
-    "description": "Quicker Farms - Top Tips Age of Empires 4",
-    "approved": true,
     "featured": true,
-    "creator": "MarZhillMagnus ",
+    "description": "Quicker Farms - Top Tips Age of Empires 4",
     "youtube_data": {
       "title": "Quicker Farms - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
       "videoId": "rom60r0BX5Y",
@@ -3262,19 +3270,19 @@
   {
     "title": "Quicker Trade - Top Tips Age of Empires 4",
     "type": "Shorts",
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks",
       "Comparison"
     ],
+    "creator": "MarZhillMagnus ",
     "civilizations": [
       "All"
     ],
     "url": "https://www.youtube.com/shorts/E3wOMV_1Lpo",
-    "description": "Improving trade by building a proxy market/s. This halves the time of the 1st trip a trader makes inreasing the rate of return and return on investment. ",
-    "approved": true,
     "featured": true,
-    "creator": "MarZhillMagnus ",
+    "description": "Improving trade by building a proxy market/s. This halves the time of the 1st trip a trader makes inreasing the rate of return and return on investment. ",
     "youtube_data": {
       "title": "Quicker Trade - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
       "videoId": "E3wOMV_1Lpo",
