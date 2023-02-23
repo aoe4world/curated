@@ -1818,8 +1818,8 @@
     ],
     "url": "https://www.youtube.com/watch?v=SO4wWmqtxbA",
     "creator_url": "https://www.youtube.com/c/FarmManOfficial",
-    "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
     "featured": true,
+    "description": "One of the simplest and most effective strategies for the French is their often seen feudal Rush.",
     "youtube_data": {
       "title": "Aoe4 | FRENCH Feudal RUSH Build Order",
       "videoId": "SO4wWmqtxbA",
@@ -2000,8 +2000,8 @@
       "All"
     ],
     "url": "https://www.youtube.com/watch?v=V-XbTO0TZN4",
-    "description": "Spirit Of The Law breaks down the basics of Age of Empires 4, from Picking a Civ, managing your economy, to Victory Conditions",
     "featured": true,
+    "description": "Spirit Of The Law breaks down the basics of Age of Empires 4, from Picking a Civ, managing your economy, to Victory Conditions",
     "youtube_data": {
       "title": "The Complete Beginner Guide to Age of Empires 4",
       "videoId": "V-XbTO0TZN4",
@@ -2162,8 +2162,8 @@
       "Rus"
     ],
     "url": "https://www.youtube.com/watch?v=M_iZWJ_7VcM",
-    "description": "The advantage of playing the Rus is that the wilderness is yours to command. By using your surroundings, particularly gathering resources, you can build up a strong economy quickly. In battle, the Rus are known for their mounted Warrior Monk that can buff surrounding units, and for the Streltsy, a powerful gunpowder unit. ",
     "featured": true,
+    "description": "The advantage of playing the Rus is that the wilderness is yours to command. By using your surroundings, particularly gathering resources, you can build up a strong economy quickly. In battle, the Rus are known for their mounted Warrior Monk that can buff surrounding units, and for the Streltsy, a powerful gunpowder unit. ",
     "youtube_data": {
       "title": "Age of Empires IV - The Rus",
       "videoId": "M_iZWJ_7VcM",
@@ -2951,19 +2951,19 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=a35ymsyY6TE",
-    "approved": true,
+    "title": "Getting out of Gold League",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Coaching"
     ],
-    "title": "Getting out of Gold League",
-    "description": "Blade55555 goes over some replay, and discusses what to focus on as a Gold player, and how to improve",
     "creator": "Blade55555",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=a35ymsyY6TE",
+    "description": "Blade55555 goes over some replay, and discusses what to focus on as a Gold player, and how to improve",
     "youtube_data": {
       "title": "[AOE4][Guide] Getting out of Gold League",
       "videoId": "a35ymsyY6TE",
@@ -2974,18 +2974,18 @@
     "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
   },
   {
-    "url": "https://www.youtube.com/watch?v=8drBx2uGdRs",
-    "approved": true,
+    "title": "The Difference Between An Expert and A Professional",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Breakdown"
     ],
-    "description": "In this video iNcog analyses a game from 3D!Bee, one of the best players in AoE4, and what seperates him from lower rank players",
     "creator": "iNcog",
     "civilizations": [
       "Rus"
     ],
-    "title": "The Difference Between An Expert and A Professional",
+    "url": "https://www.youtube.com/watch?v=8drBx2uGdRs",
+    "description": "In this video iNcog analyses a game from 3D!Bee, one of the best players in AoE4, and what seperates him from lower rank players",
     "youtube_data": {
       "title": "The Difference Between An Expert and A Professional  | AoE4",
       "videoId": "8drBx2uGdRs",
@@ -2996,19 +2996,19 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=Nhn6GWoItgc",
-    "creator": "iNcog",
     "title": "Malian Farimba Fast Castle Build Order Guide",
-    "description": "iNcog shows a fast Farimba Garison build order",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Build Order",
       "Season 3"
     ],
+    "creator": "iNcog",
     "civilizations": [
       "Malians"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=Nhn6GWoItgc",
+    "description": "iNcog shows a fast Farimba Garison build order",
     "youtube_data": {
       "title": "Malian Farimba Fast Castle (Season 3 Build Order) | AoE4",
       "videoId": "Nhn6GWoItgc",
@@ -3019,21 +3019,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=v4P8cA8RlsI",
-    "approved": true,
+    "title": "iNcog's AoE4 Masterclass 1.2 - Basic Macro",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "title": "iNcog's AoE4 Masterclass 1.2 - Basic Macro",
-    "description": "This Masterclass focuses on the basics of proper economic management in AoE4. This is commonly referred to as \"macro\". We're looking to introduce this concept to beginner players for AoE4. The goal of this video is to show which considerations go into doing the following tasks: - Spending resources, - Villager production, - Housing... Essentially, you need to constantly shift your attention back to your economy. At no point in the game should your macro be neglected. You need to circle back to your economy on an ongoing basis. As demonstrated in this video, it can be a lot less APM intensive than it seems. ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=v4P8cA8RlsI",
     "featured": true,
+    "description": "This Masterclass focuses on the basics of proper economic management in AoE4. This is commonly referred to as \"macro\". We're looking to introduce this concept to beginner players for AoE4. The goal of this video is to show which considerations go into doing the following tasks: - Spending resources, - Villager production, - Housing... Essentially, you need to constantly shift your attention back to your economy. At no point in the game should your macro be neglected. You need to circle back to your economy on an ongoing basis. As demonstrated in this video, it can be a lot less APM intensive than it seems. ",
     "youtube_data": {
       "title": "AoE4 Masterclass I.2 - Basic Macro",
       "videoId": "v4P8cA8RlsI",
@@ -3044,21 +3044,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=gMQAXVUrzpo",
-    "approved": true,
     "title": "iNcog's AoE4 Masterclass 1.3 - Introduction To Military Units",
-    "featured": true,
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "description": "This Masterclass focuses on the introduction of classic AoE4 Units that you will encounter.",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=gMQAXVUrzpo",
+    "featured": true,
+    "description": "This Masterclass focuses on the introduction of classic AoE4 Units that you will encounter.",
     "youtube_data": {
       "title": "AoE4 Masterclass I.3 - Introduction To Military Units",
       "videoId": "gMQAXVUrzpo",
@@ -3069,21 +3069,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=f9D8kQ9pgHg",
-    "approved": true,
-    "featured": true,
+    "title": "iNcog's AoE4 Masterclass 1.4 - How Damage is Calculated",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "title": "iNcog's AoE4 Masterclass 1.4 - How Damage is Calculated",
-    "description": "This Masterclass focuses on the basics of damage calculations in AoE4. Most of the math is shown in the video, but there are some other situations where things can be more complicated (e.g. Janissaries take extra 50% ranged damage. How is that calculated? Well I'm not going to explain it here there's NO TIME omg). ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=f9D8kQ9pgHg",
+    "featured": true,
+    "description": "This Masterclass focuses on the basics of damage calculations in AoE4. Most of the math is shown in the video, but there are some other situations where things can be more complicated (e.g. Janissaries take extra 50% ranged damage. How is that calculated? Well I'm not going to explain it here there's NO TIME omg). ",
     "youtube_data": {
       "title": "AoE4 Masterclass I.4 - How Damage Is Calculated",
       "videoId": "f9D8kQ9pgHg",
@@ -3092,5 +3092,196 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/f9D8kQ9pgHg/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
+  },
+  {
+    "title": "Top 50 Tips and Tricks for Age of Empires 4!",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Tips & Tricks",
+      "Beginner",
+      "Fun"
+    ],
+    "creator": "Age of Noob",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://youtu.be/WtWP4Aky8SE",
+    "description": "50 Awesome Tips and Tricks for Age of Empires 4",
+    "youtube_data": {
+      "title": "Top 50 Tips for Age of Empires 4!",
+      "videoId": "WtWP4Aky8SE",
+      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
+      "videoDuration": "1464"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/WtWP4Aky8SE/maxresdefault.jpg?v=63b22a29",
+    "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
+  },
+  {
+    "title": "Guide to Eco Upgrades in AoE4!",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Economy",
+      "Guide",
+      "Beginner",
+      "Season 4"
+    ],
+    "creator": "Age of Noob",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://youtu.be/m7TFGB2I5Zw",
+    "featured": true,
+    "description": "Every civilization in the game gets generic eco upgrades to research in the Mill, Lumber Camp, and Mining Camp, but when should you research those technologies? Let's find out!",
+    "youtube_data": {
+      "title": "Guide to Eco Upgrades in AoE4!",
+      "videoId": "m7TFGB2I5Zw",
+      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
+      "videoDuration": "325"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/m7TFGB2I5Zw/maxresdefault.jpg?v=63e927e6",
+    "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
+  },
+  {
+    "title": "Abbasid 2TC Build Order",
+    "type": "Video",
+    "relatedItems": [
+      "civs/abbasid"
+    ],
+    "approved": true,
+    "tags": [
+      "Build Order",
+      "Beginner",
+      "Guide",
+      "Season 4"
+    ],
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "Abbasid"
+    ],
+    "url": "https://youtu.be/TccHu6_bqcE",
+    "featured": true,
+    "description": "A very effective Abbasid 2 TC Build Order for Season 4 with all the new changes",
+    "youtube_data": {
+      "title": "Aoe4 | Abbasid 2TC Build Order",
+      "videoId": "TccHu6_bqcE",
+      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
+      "videoDuration": "339"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/TccHu6_bqcE/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "title": "[Analysis] Reviewing my Golden League 2 games",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Breakdown",
+      "Season 4"
+    ],
+    "creator": "Blade55555",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=1FO_aYWvPoI",
+    "featured": true,
+    "description": "Blade55555 Breaks down his GL2 games, and explains his thought process, what happened and what he could've done better.",
+    "youtube_data": {
+      "title": "[Analysis][AOE4] Reviewing my Golden League 2 games",
+      "videoId": "1FO_aYWvPoI",
+      "channelId": "UCWjfCtIF-1_HnSJuHJ1Dl8g",
+      "videoDuration": "5266"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/1FO_aYWvPoI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYyg6MA8=&rs=AOn4CLD5wGe5gHecFXLAwzzMeqf3Jp4FqA",
+    "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
+  },
+  {
+    "title": "English ABBEY of KINGs Build Order",
+    "type": "Video",
+    "approved": true,
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "English"
+    ],
+    "url": "https://youtu.be/mf2_PhCeX9o",
+    "description": "A build order guide for an aoe4 English Abbey of Kings opening.",
+    "youtube_data": {
+      "title": "Abbey Of KINGS | Aoe4 English Build Order",
+      "videoId": "mf2_PhCeX9o",
+      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
+      "videoDuration": "382"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/mf2_PhCeX9o/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "title": "French Trade Build Order Guide",
+    "type": "Video",
+    "approved": true,
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "French"
+    ],
+    "url": "https://youtu.be/DvkzWYIllmA",
+    "description": "An aoe4 french build order guide for season 4",
+    "youtube_data": {
+      "title": "Aoe4 | French Trade Build Order",
+      "videoId": "DvkzWYIllmA",
+      "channelId": "UCK-Nza0xGWLcU3ryXrpk5_A",
+      "videoDuration": "351"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/DvkzWYIllmA/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "title": "Getting food income from farms built en mass generating quicker. ",
+    "type": "Shorts",
+    "tags": [
+      "Economy",
+      "Tips & Tricks",
+      "Comparison"
+    ],
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/shorts/rom60r0BX5Y",
+    "description": "Quicker Farms - Top Tips Age of Empires 4",
+    "approved": true,
+    "featured": true,
+    "creator": "MarZhillMagnus ",
+    "youtube_data": {
+      "title": "Quicker Farms - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
+      "videoId": "rom60r0BX5Y",
+      "channelId": "UCux83iLyiSDx1yEAkZHU5sw",
+      "videoDuration": "60"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/rom60r0BX5Y/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBkKDowDw==&rs=AOn4CLAnnpoFmeOEjw1UmSYk1xR6JfjXnA",
+    "creator_url": "https://youtube.com/channel/UCux83iLyiSDx1yEAkZHU5sw"
+  },
+  {
+    "title": "Quicker Trade - Top Tips Age of Empires 4",
+    "type": "Shorts",
+    "tags": [
+      "Economy",
+      "Tips & Tricks",
+      "Comparison"
+    ],
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/shorts/E3wOMV_1Lpo",
+    "description": "Improving trade by building a proxy market/s. This halves the time of the 1st trip a trader makes inreasing the rate of return and return on investment. ",
+    "approved": true,
+    "featured": true,
+    "creator": "MarZhillMagnus ",
+    "youtube_data": {
+      "title": "Quicker Trade - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
+      "videoId": "E3wOMV_1Lpo",
+      "channelId": "UCux83iLyiSDx1yEAkZHU5sw",
+      "videoDuration": "60"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/E3wOMV_1Lpo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBjKDowDw==&rs=AOn4CLBk88AnKX7-pwVrQq9FxYCNfZIQtw",
+    "creator_url": "https://youtube.com/channel/UCux83iLyiSDx1yEAkZHU5sw"
   }
 ]
