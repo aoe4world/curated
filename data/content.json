@@ -3326,24 +3326,24 @@
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=jlQEabx0oYI",
-    "approved": true,
-    "featured": true,
-    "type": "Video",
-    "tags": [
-      "Season 4",
-      "Tips & Tricks"
-    ],
     "title": "House of Wisdom Scouting",
-    "description": "What wing is the Abbasid Dynasty aging up with? Lets learn how with Farm Man Official!",
-    "creator": "Farm Man Official",
-    "civilizations": [
-      "Abbasid"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/abbasid",
       "civs/abbasid/buildings/house-of-wisdom"
     ],
+    "approved": true,
+    "tags": [
+      "Season 4",
+      "Tips & Tricks"
+    ],
+    "creator": "Farm Man Official",
+    "civilizations": [
+      "Abbasid"
+    ],
+    "url": "https://www.youtube.com/watch?v=jlQEabx0oYI",
+    "featured": true,
+    "description": "What wing is the Abbasid Dynasty aging up with? Lets learn how with Farm Man Official!",
     "youtube_data": {
       "title": "Know Your ENEMY | Aoe4 House Of Wisdom Scouting",
       "videoId": "jlQEabx0oYI",
@@ -3352,5 +3352,76 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/jlQEabx0oYI/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
+  },
+  {
+    "title": "Rus Kremlin 2 TC",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Season 4",
+      "Build Order",
+      "Guide"
+    ],
+    "url": "https://www.youtube.com/watch?v=2JHcptYpqS8",
+    "featured": true,
+    "description": "Blade55555 shows a very good and strong Rus Kremlin 2TC build that has gotten very popular recently",
+    "youtube_data": {
+      "title": "[Guide][AOE4] Rus Kremlin 2 TC",
+      "videoId": "2JHcptYpqS8",
+      "channelId": "UCWjfCtIF-1_HnSJuHJ1Dl8g",
+      "videoDuration": "920"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/2JHcptYpqS8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYCg_MA8=&rs=AOn4CLAZtstsM2QFHLH7Gdv3Qx_Jy6WpNQ",
+    "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
+  },
+  {
+    "title": "how to be the agressor and force your opponents hand 1 step at a time",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide"
+    ],
+    "creator": "Don Artie",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://www.youtube.com/watch?v=13Fg-oEp8QA",
+    "featured": true,
+    "description": "This is gonna be a standalone guide video on how to take control of a game from the beginning till the end and eventually find that kill on your opponent",
+    "youtube_data": {
+      "title": "Aoe4: how to be the agressor and force your opponents hand 1 step at a time (french vs abbasid)",
+      "videoId": "13Fg-oEp8QA",
+      "channelId": "UCWTVXrPjVMPsUq5KWoizzMg",
+      "videoDuration": "1577"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/13Fg-oEp8QA/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCWTVXrPjVMPsUq5KWoizzMg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DfvLOG65BpE",
+    "approved": true,
+    "featured": true,
+    "type": "Video",
+    "tags": [
+      "Guide",
+      "Tips & Tricks",
+      "Military",
+      "Breakdown",
+      "Comparison"
+    ],
+    "title": "Guide to Blacksmith Upgrade",
+    "description": "Age of Noob goes over all the blacksmith upgrades in Age of Empires 4",
+    "creator": "Age of Noob",
+    "civilizations": [
+      "All"
+    ],
+    "youtube_data": {
+      "title": "Guide to Blacksmith Upgrades in AoE4!",
+      "videoId": "DfvLOG65BpE",
+      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
+      "videoDuration": "390"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/DfvLOG65BpE/maxresdefault.jpg?v=6424c0db",
+    "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
   }
 ]
