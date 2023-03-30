@@ -3365,6 +3365,10 @@
     "url": "https://www.youtube.com/watch?v=2JHcptYpqS8",
     "featured": true,
     "description": "Blade55555 shows a very good and strong Rus Kremlin 2TC build that has gotten very popular recently",
+    "creator": "Blade55555",
+    "civilizations": [
+      "Rus"
+    ],
     "youtube_data": {
       "title": "[Guide][AOE4] Rus Kremlin 2 TC",
       "videoId": "2JHcptYpqS8",
