@@ -3429,20 +3429,20 @@
     "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=SN4i13AHkoI",
-    "approved": true,
-    "featured": true,
+    "title": "What civ should i play???",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Guide"
     ],
-    "title": "What civ should i play???",
-    "description": "coRe talks about the thought process and which Civs is the best on which map",
     "creator": "coReAoE",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=SN4i13AHkoI",
+    "featured": true,
+    "description": "coRe talks about the thought process and which Civs is the best on which map",
     "youtube_data": {
       "title": "Age of Empires IV: What civ should i play???",
       "videoId": "SN4i13AHkoI",
@@ -3453,21 +3453,21 @@
     "creator_url": "https://youtube.com/channel/UCnUg6PIH0LL-Fo0ssqvvzzQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=9wi-VwFHM7c",
-    "approved": true,
-    "featured": true,
+    "title": "Top 5 Mistakes in Feudal Age (Age II)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Beginner",
       "Guide"
     ],
-    "title": "Top 5 Mistakes in Feudal Age (Age II)",
-    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Feudal Age",
     "creator": "Valdemar1902",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=9wi-VwFHM7c",
+    "featured": true,
+    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Feudal Age",
     "youtube_data": {
       "title": "TOP 5 MISTAKES FEUDAL AGE (AGE II) | Strategy Guides | Valdemar1902",
       "videoId": "9wi-VwFHM7c",
@@ -3478,21 +3478,21 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=6bpAREkLo-U",
-    "approved": true,
-    "featured": true,
+    "title": "Top 5 Mistakes in Dark Age (Age I)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Beginner",
       "Guide"
     ],
-    "title": "Top 5 Mistakes in Dark Age (Age I)",
-    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Dar Age",
     "creator": "Valdemar1902",
     "civilizations": [
       "All"
     ],
+    "url": "https://www.youtube.com/watch?v=6bpAREkLo-U",
+    "featured": true,
+    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Dar Age",
     "youtube_data": {
       "title": "TOP 5 MISTAKES DARK AGE (AGE I) | Strategy Guides | Valdemar1902",
       "videoId": "6bpAREkLo-U",
@@ -3503,25 +3503,25 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=CFnz80yv47k",
-    "approved": true,
-    "featured": true,
+    "title": "How to Defeat the English!",
     "type": "Video",
+    "relatedItems": [
+      "civs/english"
+    ],
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Military",
       "Guide",
       "Breakdown"
     ],
-    "title": "How to Defeat the English!",
-    "description": "Valdemar1902 teaches you how to beat the English",
     "creator": "Valdemar1902",
     "civilizations": [
       "English"
     ],
-    "relatedItems": [
-      "civs/english"
-    ],
+    "url": "https://www.youtube.com/watch?v=CFnz80yv47k",
+    "featured": true,
+    "description": "Valdemar1902 teaches you how to beat the English",
     "youtube_data": {
       "title": "HOW TO DEFEAT THE ENGLISH | Strategy Guides | Valdemar1902",
       "videoId": "CFnz80yv47k",
@@ -3532,24 +3532,24 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=2vNyys4u1IU",
-    "approved": true,
-    "featured": true,
+    "title": "Early Control Abbasid 2 TC Build",
     "type": "Video",
+    "relatedItems": [
+      "civs/abbasid"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 4"
     ],
-    "title": "Early Control Abbasid 2 TC Build",
-    "description": "Valdemar1902 goes through a Abbasid build order for early control with the Military Wing, and 2 Town Centers",
     "creator": "Valdemar1902",
     "civilizations": [
       "Abbasid"
     ],
-    "relatedItems": [
-      "civs/abbasid"
-    ],
+    "url": "https://www.youtube.com/watch?v=2vNyys4u1IU",
+    "featured": true,
+    "description": "Valdemar1902 goes through a Abbasid build order for early control with the Military Wing, and 2 Town Centers",
     "youtube_data": {
       "title": "EARLY CONTROL ABBA 2TC BUILD | Build order guides | Valdemar1902",
       "videoId": "2vNyys4u1IU",
@@ -3560,24 +3560,24 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=qgTED-U-TvE",
-    "approved": true,
-    "featured": true,
+    "title": "Chinese Water Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/chinese"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 4"
     ],
-    "title": "Chinese Water Guide",
-    "description": "Valdemar1902 explains how to play the Chinese on Water Maps",
     "creator": "Valdemar1902",
     "civilizations": [
       "Chinese"
     ],
-    "relatedItems": [
-      "civs/chinese"
-    ],
+    "url": "https://www.youtube.com/watch?v=qgTED-U-TvE",
+    "featured": true,
+    "description": "Valdemar1902 explains how to play the Chinese on Water Maps",
     "youtube_data": {
       "title": "CHINESE WATER GUIDE | Build order guides | Valdemar1902",
       "videoId": "qgTED-U-TvE",
@@ -3588,25 +3588,25 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=eKd3cZ9MxkQ",
-    "approved": true,
+    "title": "English Dark Age Rush Build Order",
     "type": "Video",
+    "relatedItems": [
+      "civs/english",
+      "units/man-at-arms"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 4"
     ],
-    "title": "English Dark Age Rush Build Order",
-    "description": "The English gets access to the Man at Arms in Dark Age. Lets use them to our advantage! This build order is super powerful on Hybrid Maps. Lets learn with Valdemar1902",
     "creator": "Valdemar1902",
     "civilizations": [
       "English"
     ],
-    "relatedItems": [
-      "civs/english",
-      "units/man-at-arms"
-    ],
+    "url": "https://www.youtube.com/watch?v=eKd3cZ9MxkQ",
     "featured": true,
+    "description": "The English gets access to the Man at Arms in Dark Age. Lets use them to our advantage! Lets learn with Valdemar1902",
     "youtube_data": {
       "title": "DARK AGE RUSH ENGLISH | Build order guides | Valdemar1902",
       "videoId": "eKd3cZ9MxkQ",
