@@ -265,20 +265,20 @@
     "thumbnail": "https://i.ytimg.com/vi/rObnKGcVd8U/maxresdefault.jpg"
   },
   {
-    "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
+    "title": "The 3 best warm-ups to achieving a higher rank ",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Tips & Tricks"
     ],
-    "title": "The 3 best warm-ups to achieving a higher rank ",
-    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
     "creator": "ICONIC Play",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
     "featured": true,
+    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
     "youtube_data": {
       "title": "The 3 best warm-ups to achieving a higher rank | Age of empires 4 | Guide | Conquest to Conqueror",
       "videoId": "K1wr25x_gLY",
@@ -289,24 +289,24 @@
     "creator_url": "https://youtube.com/channel/UC9CWoCvgiP-GBwnHQGIRB2g"
   },
   {
-    "url": "https://www.youtube.com/watch?v=souB1CKfQuk",
+    "title": "How to Tower Rush with Mongols",
     "type": "Video",
+    "relatedItems": [
+      "civs/mongols"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 3"
     ],
-    "title": "How to Tower Rush with Mongols",
-    "description": "The most despised tactic in AoE4.. The Tower Rush.. Beastyqt teaches you how to do it too! Why must you do this Beasty..",
     "creator": "BeastyqtSC2",
     "civilizations": [
       "Mongols"
     ],
-    "relatedItems": [
-      "civs/mongols"
-    ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=souB1CKfQuk",
     "featured": true,
+    "description": "The most despised tactic in AoE4.. The Tower Rush.. Beastyqt teaches you how to do it too! Why must you do this Beasty..",
     "youtube_data": {
       "title": "How to Tower Rush with Mongols in AOE4? (Season 3 Guide)",
       "videoId": "souB1CKfQuk",
@@ -317,21 +317,21 @@
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   },
   {
-    "url": "https://youtu.be/y7_FNCpJhPs",
+    "title": "How To Defend Tower Rush For Low Elo",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Military",
       "Guide",
       "Season 3"
     ],
-    "title": "How To Defend Tower Rush For Low Elo",
-    "description": "Alternative means to defeat a tower rush if you aren't at Conqueror and have more time to work with. ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://youtu.be/y7_FNCpJhPs",
     "featured": true,
+    "description": "Alternative means to defeat a tower rush if you aren't at Conqueror and have more time to work with. ",
     "youtube_data": {
       "title": "An Easier Approach (All Civilizations*) | AoE4",
       "videoId": "y7_FNCpJhPs",
@@ -342,20 +342,20 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://youtu.be/YBwJaC1hAqg",
+    "title": "4 Tips For Min-Maxing Your Eco",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks"
     ],
-    "title": "4 Tips For Min-Maxing Your Eco",
-    "description": "Tips for maximizing the efficiency of villagers and traders. This mostly involves decreasing idle, non-gathering villager time. ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://youtu.be/YBwJaC1hAqg",
     "featured": true,
+    "description": "Tips for maximizing the efficiency of villagers and traders. This mostly involves decreasing idle, non-gathering villager time. ",
     "youtube_data": {
       "title": "I Learned These Recently, So Should You | AoE4",
       "videoId": "YBwJaC1hAqg",
@@ -366,21 +366,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=v4P8cA8RlsI",
+    "title": "iNcog's AoE4 Masterclass 1.2 - Basic Macro",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "title": "iNcog's AoE4 Masterclass 1.2 - Basic Macro",
-    "description": "This Masterclass focuses on the basics of proper economic management in AoE4. This is commonly referred to as \"macro\". We're looking to introduce this concept to beginner players for AoE4. The goal of this video is to show which considerations go into doing the following tasks: - Spending resources, - Villager production, - Housing... Essentially, you need to constantly shift your attention back to your economy. At no point in the game should your macro be neglected. You need to circle back to your economy on an ongoing basis. As demonstrated in this video, it can be a lot less APM intensive than it seems. ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=v4P8cA8RlsI",
     "featured": true,
+    "description": "This Masterclass focuses on the basics of proper economic management in AoE4. This is commonly referred to as \"macro\". We're looking to introduce this concept to beginner players for AoE4. The goal of this video is to show which considerations go into doing the following tasks: - Spending resources, - Villager production, - Housing... Essentially, you need to constantly shift your attention back to your economy. At no point in the game should your macro be neglected. You need to circle back to your economy on an ongoing basis. As demonstrated in this video, it can be a lot less APM intensive than it seems. ",
     "youtube_data": {
       "title": "AoE4 Masterclass I.2 - Basic Macro",
       "videoId": "v4P8cA8RlsI",
@@ -391,21 +391,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=gMQAXVUrzpo",
+    "title": "iNcog's AoE4 Masterclass 1.3 - Introduction To Military Units",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "title": "iNcog's AoE4 Masterclass 1.3 - Introduction To Military Units",
-    "description": "This Masterclass focuses on the introduction of classic AoE4 Units that you will encounter.",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=gMQAXVUrzpo",
     "featured": true,
+    "description": "This Masterclass focuses on the introduction of classic AoE4 Units that you will encounter.",
     "youtube_data": {
       "title": "AoE4 Masterclass I.3 - Introduction To Military Units",
       "videoId": "gMQAXVUrzpo",
@@ -416,21 +416,21 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=f9D8kQ9pgHg",
+    "title": "iNcog's AoE4 Masterclass 1.4 - How Damage is Calculated",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Discussion",
       "Beginner"
     ],
-    "title": "iNcog's AoE4 Masterclass 1.4 - How Damage is Calculated",
-    "description": "This Masterclass focuses on the basics of damage calculations in AoE4. Most of the math is shown in the video, but there are some other situations where things can be more complicated (e.g. Janissaries take extra 50% ranged damage. How is that calculated? Well I'm not going to explain it here there's NO TIME omg). ",
     "creator": "iNcog",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=f9D8kQ9pgHg",
     "featured": true,
+    "description": "This Masterclass focuses on the basics of damage calculations in AoE4. Most of the math is shown in the video, but there are some other situations where things can be more complicated (e.g. Janissaries take extra 50% ranged damage. How is that calculated? Well I'm not going to explain it here there's NO TIME omg). ",
     "youtube_data": {
       "title": "AoE4 Masterclass I.4 - How Damage Is Calculated",
       "videoId": "f9D8kQ9pgHg",
@@ -441,22 +441,22 @@
     "creator_url": "https://youtube.com/channel/UC-DHu5ZTfeF_-audDbx8JMA"
   },
   {
-    "url": "https://youtu.be/m7TFGB2I5Zw",
+    "title": "Guide to Eco Upgrades in AoE4!",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Economy",
       "Guide",
       "Beginner",
       "Season 4"
     ],
-    "title": "Guide to Eco Upgrades in AoE4!",
-    "description": "Every civilization in the game gets generic eco upgrades to research in the Mill, Lumber Camp, and Mining Camp, but when should you research those technologies? Let's find out!",
     "creator": "Age of Noob",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://youtu.be/m7TFGB2I5Zw",
     "featured": true,
+    "description": "Every civilization in the game gets generic eco upgrades to research in the Mill, Lumber Camp, and Mining Camp, but when should you research those technologies? Let's find out!",
     "youtube_data": {
       "title": "Guide to Eco Upgrades in AoE4!",
       "videoId": "m7TFGB2I5Zw",
@@ -467,20 +467,20 @@
     "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=1FO_aYWvPoI",
+    "title": "[Analysis] Reviewing my Golden League 2 games",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Breakdown",
       "Season 4"
     ],
-    "title": "[Analysis] Reviewing my Golden League 2 games",
-    "description": "Blade55555 Breaks down his GL2 games, and explains his thought process, what happened and what he could've done better.",
     "creator": "Blade55555",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=1FO_aYWvPoI",
     "featured": true,
+    "description": "Blade55555 Breaks down his GL2 games, and explains his thought process, what happened and what he could've done better.",
     "youtube_data": {
       "title": "[Analysis][AOE4] Reviewing my Golden League 2 games",
       "videoId": "1FO_aYWvPoI",
@@ -491,20 +491,20 @@
     "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
   },
   {
-    "url": "https://youtu.be/mf2_PhCeX9o",
+    "title": "English ABBEY of KINGs Build Order",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Season 4",
       "Build Order"
     ],
-    "title": "English ABBEY of KINGs Build Order",
-    "description": "A build order guide for an aoe4 English Abbey of Kings opening.",
     "creator": "Farm Man Official",
     "civilizations": [
       "English"
     ],
-    "approved": true,
+    "url": "https://youtu.be/mf2_PhCeX9o",
     "featured": true,
+    "description": "A build order guide for an aoe4 English Abbey of Kings opening.",
     "youtube_data": {
       "title": "Abbey Of KINGS | Aoe4 English Build Order",
       "videoId": "mf2_PhCeX9o",
@@ -515,20 +515,20 @@
     "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
   },
   {
-    "url": "https://youtu.be/DvkzWYIllmA",
+    "title": "French Trade Build Order Guide",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Season 4",
       "Build Order"
     ],
-    "title": "French Trade Build Order Guide",
-    "description": "An aoe4 french build order guide for season 4",
     "creator": "Farm Man Official",
     "civilizations": [
       "French"
     ],
-    "approved": true,
+    "url": "https://youtu.be/DvkzWYIllmA",
     "featured": true,
+    "description": "An aoe4 french build order guide for season 4",
     "youtube_data": {
       "title": "Aoe4 | French Trade Build Order",
       "videoId": "DvkzWYIllmA",
@@ -539,21 +539,21 @@
     "creator_url": "https://youtube.com/channel/UCK-Nza0xGWLcU3ryXrpk5_A"
   },
   {
-    "url": "https://www.youtube.com/shorts/rom60r0BX5Y",
+    "title": "Getting food income from farms built en mass generating quicker. ",
     "type": "Shorts",
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks",
       "Comparison"
     ],
-    "title": "Getting food income from farms built en mass generating quicker. ",
-    "description": "Quicker Farms - Top Tips Age of Empires 4",
     "creator": "MarZhillMagnus ",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/shorts/rom60r0BX5Y",
     "featured": true,
+    "description": "Quicker Farms - Top Tips Age of Empires 4",
     "youtube_data": {
       "title": "Quicker Farms - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
       "videoId": "rom60r0BX5Y",
@@ -564,21 +564,21 @@
     "creator_url": "https://youtube.com/channel/UCux83iLyiSDx1yEAkZHU5sw"
   },
   {
-    "url": "https://www.youtube.com/shorts/E3wOMV_1Lpo",
+    "title": "Quicker Trade - Top Tips Age of Empires 4",
     "type": "Shorts",
+    "approved": true,
     "tags": [
       "Economy",
       "Tips & Tricks",
       "Comparison"
     ],
-    "title": "Quicker Trade - Top Tips Age of Empires 4",
-    "description": "Improving trade by building a proxy market/s. This halves the time of the 1st trip a trader makes inreasing the rate of return and return on investment. ",
     "creator": "MarZhillMagnus ",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/shorts/E3wOMV_1Lpo",
     "featured": true,
+    "description": "Improving trade by building a proxy market/s. This halves the time of the 1st trip a trader makes inreasing the rate of return and return on investment. ",
     "youtube_data": {
       "title": "Quicker Trade - Top Tips Age of Empires 4 #shorts #aoe4tips #ageofempires4 #aoe4",
       "videoId": "E3wOMV_1Lpo",
@@ -589,21 +589,21 @@
     "creator_url": "https://youtube.com/channel/UCux83iLyiSDx1yEAkZHU5sw"
   },
   {
-    "url": "https://youtu.be/Ww7u9g6-cz4",
-    "type": "Video",
-    "tags": [
-      "Build Order",
-      "Season 4"
-    ],
     "title": "How to do the Unstoppable English White Tower Rush",
-    "creator": "Aussie_Drongo",
-    "civilizations": [
-      "English"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/abbasid"
     ],
     "approved": true,
+    "tags": [
+      "Build Order",
+      "Season 4"
+    ],
+    "creator": "Aussie_Drongo",
+    "civilizations": [
+      "English"
+    ],
+    "url": "https://youtu.be/Ww7u9g6-cz4",
     "featured": true,
     "youtube_data": {
       "title": "How To Do The Unstoppable English Fast Castle",
@@ -615,21 +615,21 @@
     "creator_url": "https://youtube.com/channel/UC0IMY7nkVsUimZDMAWWcDsg"
   },
   {
-    "url": "https://www.youtube.com/watch?v=QYhbZX-nZzM",
-    "type": "Video",
-    "tags": [
-      "Season 4",
-      "Build Order"
-    ],
     "title": "Abbasid Build Orders for Season 4",
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Abbasid"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/english"
     ],
     "approved": true,
+    "tags": [
+      "Season 4",
+      "Build Order"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Abbasid"
+    ],
+    "url": "https://www.youtube.com/watch?v=QYhbZX-nZzM",
     "featured": true,
     "youtube_data": {
       "title": "NEW Abbasid Season 4 Guide (Economy, Military & Trade Wing builds)",
@@ -641,23 +641,23 @@
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=22DIKVtTZOk",
-    "type": "Video",
-    "tags": [
-      "Season 4",
-      "Build Order"
-    ],
     "title": "AOE4 Delhi Season 4 Guide",
-    "description": "BeastyQT shows you how to play Delhi in Season 4",
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "Delhi"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/delhi"
     ],
     "approved": true,
+    "tags": [
+      "Season 4",
+      "Build Order"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Delhi"
+    ],
+    "url": "https://www.youtube.com/watch?v=22DIKVtTZOk",
     "featured": true,
+    "description": "BeastyQT shows you how to play Delhi in Season 4",
     "youtube_data": {
       "title": "NEW AOE4 Delhi Season 4 Guide",
       "videoId": "22DIKVtTZOk",
@@ -668,21 +668,21 @@
     "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=2JHcptYpqS8",
+    "title": "Rus Kremlin 2 TC",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Season 4",
       "Build Order",
       "Guide"
     ],
-    "title": "Rus Kremlin 2 TC",
-    "description": "Blade55555 shows a very good and strong Rus Kremlin 2TC build that has gotten very popular recently",
     "creator": "Blade55555",
     "civilizations": [
       "Rus"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=2JHcptYpqS8",
     "featured": true,
+    "description": "Blade55555 shows a very good and strong Rus Kremlin 2TC build that has gotten very popular recently",
     "youtube_data": {
       "title": "[Guide][AOE4] Rus Kremlin 2 TC",
       "videoId": "2JHcptYpqS8",
@@ -693,19 +693,19 @@
     "creator_url": "https://youtube.com/channel/UCWjfCtIF-1_HnSJuHJ1Dl8g"
   },
   {
-    "url": "https://www.youtube.com/watch?v=13Fg-oEp8QA",
+    "title": "how to be the agressor and force your opponents hand 1 step at a time",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide"
     ],
-    "title": "how to be the agressor and force your opponents hand 1 step at a time",
-    "description": "This is gonna be a standalone guide video on how to take control of a game from the beginning till the end and eventually find that kill on your opponent",
     "creator": "Don Artie",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=13Fg-oEp8QA",
     "featured": true,
+    "description": "This is gonna be a standalone guide video on how to take control of a game from the beginning till the end and eventually find that kill on your opponent",
     "youtube_data": {
       "title": "Aoe4: how to be the agressor and force your opponents hand 1 step at a time (french vs abbasid)",
       "videoId": "13Fg-oEp8QA",
@@ -716,8 +716,9 @@
     "creator_url": "https://youtube.com/channel/UCWTVXrPjVMPsUq5KWoizzMg"
   },
   {
-    "url": "https://www.youtube.com/watch?v=DfvLOG65BpE",
+    "title": "Guide to Blacksmith Upgrade",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Tips & Tricks",
@@ -725,14 +726,13 @@
       "Breakdown",
       "Comparison"
     ],
-    "title": "Guide to Blacksmith Upgrade",
-    "description": "Age of Noob goes over all the blacksmith upgrades in Age of Empires 4",
     "creator": "Age of Noob",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=DfvLOG65BpE",
     "featured": true,
+    "description": "Age of Noob goes over all the blacksmith upgrades in Age of Empires 4",
     "youtube_data": {
       "title": "Guide to Blacksmith Upgrades in AoE4!",
       "videoId": "DfvLOG65BpE",
@@ -743,20 +743,20 @@
     "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=SN4i13AHkoI",
+    "title": "What civ should i play???",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Guide"
     ],
-    "title": "What civ should i play???",
-    "description": "coRe talks about the thought process and which Civs is the best on which map",
     "creator": "coReAoE",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=SN4i13AHkoI",
     "featured": true,
+    "description": "coRe talks about the thought process and which Civs is the best on which map",
     "youtube_data": {
       "title": "Age of Empires IV: What civ should i play???",
       "videoId": "SN4i13AHkoI",
@@ -767,21 +767,21 @@
     "creator_url": "https://youtube.com/channel/UCnUg6PIH0LL-Fo0ssqvvzzQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=9wi-VwFHM7c",
+    "title": "Top 5 Mistakes in Feudal Age (Age II)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Beginner",
       "Guide"
     ],
-    "title": "Top 5 Mistakes in Feudal Age (Age II)",
-    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Feudal Age",
     "creator": "Valdemar1902",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=9wi-VwFHM7c",
     "featured": true,
+    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Feudal Age",
     "youtube_data": {
       "title": "TOP 5 MISTAKES FEUDAL AGE (AGE II) | Strategy Guides | Valdemar1902",
       "videoId": "9wi-VwFHM7c",
@@ -792,21 +792,21 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=6bpAREkLo-U",
+    "title": "Top 5 Mistakes in Dark Age (Age I)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Beginner",
       "Guide"
     ],
-    "title": "Top 5 Mistakes in Dark Age (Age I)",
-    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Dar Age",
     "creator": "Valdemar1902",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=6bpAREkLo-U",
     "featured": true,
+    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Dar Age",
     "youtube_data": {
       "title": "TOP 5 MISTAKES DARK AGE (AGE I) | Strategy Guides | Valdemar1902",
       "videoId": "6bpAREkLo-U",
@@ -817,25 +817,25 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=CFnz80yv47k",
+    "title": "How to Defeat the English!",
     "type": "Video",
+    "relatedItems": [
+      "civs/english"
+    ],
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Military",
       "Guide",
       "Breakdown"
     ],
-    "title": "How to Defeat the English!",
-    "description": "Valdemar1902 teaches you how to beat the English",
     "creator": "Valdemar1902",
     "civilizations": [
       "English"
     ],
-    "relatedItems": [
-      "civs/english"
-    ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=CFnz80yv47k",
     "featured": true,
+    "description": "Valdemar1902 teaches you how to beat the English",
     "youtube_data": {
       "title": "HOW TO DEFEAT THE ENGLISH | Strategy Guides | Valdemar1902",
       "videoId": "CFnz80yv47k",
@@ -846,24 +846,24 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=2vNyys4u1IU",
+    "title": "Early Control Abbasid 2 TC Build",
     "type": "Video",
+    "relatedItems": [
+      "civs/abbasid"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 4"
     ],
-    "title": "Early Control Abbasid 2 TC Build",
-    "description": "Valdemar1902 goes through a Abbasid build order for early control with the Military Wing, and 2 Town Centers",
     "creator": "Valdemar1902",
     "civilizations": [
       "Abbasid"
     ],
-    "relatedItems": [
-      "civs/abbasid"
-    ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=2vNyys4u1IU",
     "featured": true,
+    "description": "Valdemar1902 goes through a Abbasid build order for early control with the Military Wing, and 2 Town Centers",
     "youtube_data": {
       "title": "EARLY CONTROL ABBA 2TC BUILD | Build order guides | Valdemar1902",
       "videoId": "2vNyys4u1IU",
@@ -874,24 +874,24 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=qgTED-U-TvE",
+    "title": "Chinese Water Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/chinese"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Build Order",
       "Season 4"
     ],
-    "title": "Chinese Water Guide",
-    "description": "Valdemar1902 explains how to play the Chinese on Water Maps",
     "creator": "Valdemar1902",
     "civilizations": [
       "Chinese"
     ],
-    "relatedItems": [
-      "civs/chinese"
-    ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=qgTED-U-TvE",
     "featured": true,
+    "description": "Valdemar1902 explains how to play the Chinese on Water Maps",
     "youtube_data": {
       "title": "CHINESE WATER GUIDE | Build order guides | Valdemar1902",
       "videoId": "qgTED-U-TvE",
@@ -902,25 +902,25 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=eKd3cZ9MxkQ",
-    "type": "Video",
-    "tags": [
-      "Guide",
-      "Build Order",
-      "Season 4"
-    ],
     "title": "English Dark Age Rush Build Order",
-    "description": "The English gets access to the Man at Arms in Dark Age. Lets use them to our advantage! Lets learn with Valdemar1902",
-    "creator": "Valdemar1902",
-    "civilizations": [
-      "English"
-    ],
+    "type": "Video",
     "relatedItems": [
       "civs/english",
       "units/man-at-arms"
     ],
     "approved": true,
+    "tags": [
+      "Guide",
+      "Build Order",
+      "Season 4"
+    ],
+    "creator": "Valdemar1902",
+    "civilizations": [
+      "English"
+    ],
+    "url": "https://www.youtube.com/watch?v=eKd3cZ9MxkQ",
     "featured": true,
+    "description": "The English gets access to the Man at Arms in Dark Age. Lets use them to our advantage! Lets learn with Valdemar1902",
     "youtube_data": {
       "title": "DARK AGE RUSH ENGLISH | Build order guides | Valdemar1902",
       "videoId": "eKd3cZ9MxkQ",
@@ -931,21 +931,21 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=qMcKgQvNGnw",
+    "title": "Top 5 Mistakes in Castle Age (Age III)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Tips & Tricks",
       "Beginner"
     ],
-    "title": "Top 5 Mistakes in Castle Age (Age III)",
-    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Castle Age",
     "creator": "Valdemar1902",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=qMcKgQvNGnw",
     "featured": true,
+    "description": "Valdemar1902 talks about the biggest and most common mistakes that players do in Castle Age",
     "youtube_data": {
       "title": "TOP 5 MISTAKES CASTLE AGE (AGE III) | Strategy Guides | Valdemar1902",
       "videoId": "qMcKgQvNGnw",
@@ -956,21 +956,21 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=IL25ejb6ANg",
+    "title": "Five tips to make your life easier playing AoE4 (and any other RTS)",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Guide",
       "Tips & Tricks",
       "Beginner"
     ],
-    "title": "Five tips to make your life easier playing AoE4 (and any other RTS)",
-    "description": "In this video Lucifron7 explain five tips or good habits that anyone trying to become the best AoE4 player they can be should implement sooner rather than later in their game:",
     "creator": "LucifroN7",
     "civilizations": [
       "All"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=IL25ejb6ANg",
     "featured": true,
+    "description": "In this video Lucifron7 explain five tips or good habits that anyone trying to become the best AoE4 player they can be should implement sooner rather than later in their game:",
     "youtube_data": {
       "title": "Five tips to make your life easier playing AoE4 (and any other RTS)",
       "videoId": "IL25ejb6ANg",
@@ -981,19 +981,19 @@
     "creator_url": "https://youtube.com/channel/UCu28wszxtGssgjlL7KVD-GQ"
   },
   {
-    "url": "https://www.youtube.com/watch?v=Y9rqbS714L8",
+    "title": "2TC 5:25 WITH 1 KNIGHT",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Build Order"
     ],
-    "title": "2TC 5:25 WITH 1 KNIGHT",
-    "description": "This guide is designed to teach you how to play the 2TC build for the French civilisation. ",
     "creator": "Valdemar1902",
     "civilizations": [
       "French"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=Y9rqbS714L8",
     "featured": true,
+    "description": "This guide is designed to teach you how to play the 2TC build for the French civilisation. ",
     "youtube_data": {
       "title": "2TC 5:25 WITH 1 KNIGHT | Build Order Guides | Valdemar1902",
       "videoId": "Y9rqbS714L8",
@@ -1004,20 +1004,20 @@
     "creator_url": "https://youtube.com/channel/UCyzgM7IMV8AXN8suRSyNhiQ"
   },
   {
-    "url": "https://youtu.be/_s6eJvs478I",
+    "title": "Unraveling Delhi Sultanate: Age of Empires 4 History!",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Fun",
       "History"
     ],
-    "title": "Unraveling Delhi Sultanate: Age of Empires 4 History!",
-    "description": "Step back in time and explore the true stories behind the powerful empire that changed the course of Indian subcontinent history. Don't miss out on the chance to explore the fascinating connection between the Delhi Sultanate and the beloved strategy game, Age of Empires 4 - from units, to mechanics and landmarks. ",
     "creator": "Bella Capilla",
     "civilizations": [
       "Delhi"
     ],
-    "approved": true,
+    "url": "https://youtu.be/_s6eJvs478I",
     "featured": true,
+    "description": "Step back in time and explore the true stories behind the powerful empire that changed the course of Indian subcontinent history. Don't miss out on the chance to explore the fascinating connection between the Delhi Sultanate and the beloved strategy game, Age of Empires 4 - from units, to mechanics and landmarks. ",
     "youtube_data": {
       "title": "Unraveling Delhi Sultanate: Age of Empires 4 History! 🕵️‍♂️🔍",
       "videoId": "_s6eJvs478I",
@@ -1028,20 +1028,20 @@
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   },
   {
-    "url": "https://www.youtube.com/watch?v=7odG5TxC0xY",
+    "title": "Age of Empires 4 - The Ottomans Beyond The Game",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Fun",
       "History"
     ],
-    "title": "Age of Empires 4 - The Ottomans Beyond The Game",
-    "description": "In Age of Empires 4, the Ottomans are represented from the 11th to mid-16th century. Come in a journey with me, from Dark Ages to Imperial Age, but in real life. Discover the origins of this fascinating civilization, their impact in the world, and their legacy - from 16.8 tons bombards, to western classical music influence. Understand the Ottoman's special mechanics and charming units and apply your knowledge for better in-game strategies.",
     "creator": "Bella Capilla",
     "civilizations": [
       "Ottomans"
     ],
-    "approved": true,
+    "url": "https://www.youtube.com/watch?v=7odG5TxC0xY",
     "featured": true,
+    "description": "In Age of Empires 4, the Ottomans are represented from the 11th to mid-16th century. Come in a journey with me, from Dark Ages to Imperial Age, but in real life. Discover the origins of this fascinating civilization, their impact in the world, and their legacy - from 16.8 tons bombards, to western classical music influence. Understand the Ottoman's special mechanics and charming units and apply your knowledge for better in-game strategies.",
     "youtube_data": {
       "title": "Age of Empires 4 - The Ottomans Beyond The Game",
       "videoId": "7odG5TxC0xY",
@@ -1052,20 +1052,20 @@
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   },
   {
-    "url": "https://youtu.be/12uuJucnw7s",
+    "title": "Age of Empires 4 - Mongols Real-Life Inspirations",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Fun",
       "History"
     ],
-    "title": "Age of Empires 4 - Mongols Real-Life Inspirations",
-    "description": "The Mongols are represented from 1000 to 1500 CE in the game. Their gameplay mechanics are heavily influenced by their history and lifestyle.",
     "creator": "Bella Capilla",
     "civilizations": [
       "Mongols"
     ],
-    "approved": true,
+    "url": "https://youtu.be/12uuJucnw7s",
     "featured": true,
+    "description": "The Mongols are represented from 1000 to 1500 CE in the game. Their gameplay mechanics are heavily influenced by their history and lifestyle.",
     "youtube_data": {
       "title": "Age of Empires 4 - Mongols Real-Life Inspirations",
       "videoId": "12uuJucnw7s",
@@ -1076,20 +1076,20 @@
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   },
   {
-    "url": "https://youtu.be/fEuM_UA7AvY",
+    "title": "Age of Empires 4 - The REAL Holy Roman Empire",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Fun",
       "History"
     ],
-    "title": "Age of Empires 4 - The REAL Holy Roman Empire",
-    "description": "The Holy Roman Empire or Heiliges Römisches Reich Deutscher Nation spans the years 936-1517 CE and comprises modern Germany, as the rightful successor to the ancient Roman Empire.",
     "creator": "Bella Capilla",
     "civilizations": [
       "HRE"
     ],
-    "approved": true,
+    "url": "https://youtu.be/fEuM_UA7AvY",
     "featured": true,
+    "description": "The Holy Roman Empire or Heiliges Römisches Reich Deutscher Nation spans the years 936-1517 CE and comprises modern Germany, as the rightful successor to the ancient Roman Empire.",
     "youtube_data": {
       "title": "Age of Empires 4 - The REAL Holy Roman Empire 🙏",
       "videoId": "fEuM_UA7AvY",
@@ -1100,20 +1100,20 @@
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   },
   {
-    "url": "https://youtu.be/DXug70dNBno",
+    "title": "Age of Empires 4 - French Units and Buildings - REALITY?",
     "type": "Video",
+    "approved": true,
     "tags": [
       "Fun",
       "History"
     ],
-    "title": "Age of Empires 4 - French Units and Buildings - REALITY?",
-    "description": "Ever wondered if in Age of Empires 4 the French's units and buildings have some real life inspiration behind them? Are they real or just products of developers' and producers' imaginations? Come with me in this historical check!",
     "creator": "Bella Capilla",
     "civilizations": [
       "French"
     ],
-    "approved": true,
+    "url": "https://youtu.be/DXug70dNBno",
     "featured": true,
+    "description": "Ever wondered if in Age of Empires 4 the French's units and buildings have some real life inspiration behind them? Are they real or just products of developers' and producers' imaginations? Come with me in this historical check!",
     "youtube_data": {
       "title": "Age of Empires 4 - French Units and Buildings - REALITY?",
       "videoId": "DXug70dNBno",
@@ -1124,24 +1124,24 @@
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   },
   {
-    "url": "https://youtu.be/i1Je2FqWaXM",
+    "title": "Byzantines Beginners Guide",
     "type": "Video",
     "tags": [
       "Beginner",
       "Season 6",
       "Guide"
     ],
-    "title": "Byzantines Beginners Guide",
-    "description": "Overview of all of the units, buildings, techs, and abilities for the Byzantines.",
     "creator": "FitzBro",
     "civilizations": [
       "Byzantines"
     ],
+    "url": "https://youtu.be/i1Je2FqWaXM",
+    "description": "Overview of all of the units, buildings, techs, and abilities for the Byzantines.",
     "relatedItems": [
       "civs/byzantines"
     ],
-    "approved": true,
     "featured": true,
+    "approved": true,
     "youtube_data": {
       "title": "AoE4 Byzantines Beginners Guide - Early Access",
       "videoId": "i1Je2FqWaXM",
@@ -1152,7 +1152,7 @@
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
   },
   {
-    "url": "https://youtu.be/7hgOumGxDLQ",
+    "title": "Japanese Beginners Guide",
     "type": "Video",
     "tags": [
       "Guide",
@@ -1160,12 +1160,12 @@
       "Tips & Tricks",
       "Season 6"
     ],
-    "title": "Japanese Beginners Guide",
-    "description": "Overview of all of the units, buildings, techs, and unique abilities for the Japanese.",
     "creator": "FitzBro",
     "civilizations": [
       "Japanese"
     ],
+    "url": "https://youtu.be/7hgOumGxDLQ",
+    "description": "Overview of all of the units, buildings, techs, and unique abilities for the Japanese.",
     "relatedItems": [
       "civs/japanese"
     ],
@@ -1181,7 +1181,7 @@
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
   },
   {
-    "url": "https://youtu.be/kraoV4q19Ps",
+    "title": "Ayyubids Beginners Guide",
     "type": "Video",
     "tags": [
       "Guide",
@@ -1190,17 +1190,17 @@
       "Tips & Tricks",
       "Breakdown"
     ],
-    "title": "Ayyubids Beginners Guide",
-    "description": "Overview of all units, buildings, techs, and abilities for the Ayyubids.",
     "creator": "FitzBro",
     "civilizations": [
       "Ayyubids"
     ],
+    "url": "https://youtu.be/kraoV4q19Ps",
+    "description": "Overview of all units, buildings, techs, and abilities for the Ayyubids.",
     "relatedItems": [
       "civs/ayyubids"
     ],
-    "approved": true,
     "featured": true,
+    "approved": true,
     "youtube_data": {
       "title": "AoE4 Ayyubids Beginners Guide - Early Access",
       "videoId": "kraoV4q19Ps",
@@ -1211,7 +1211,7 @@
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
   },
   {
-    "url": "https://youtu.be/sc-VmMaS_pE",
+    "title": "Jeanne d'Arc Beginners Guide",
     "type": "Video",
     "tags": [
       "Guide",
@@ -1220,12 +1220,12 @@
       "Tips & Tricks",
       "Season 6"
     ],
-    "title": "Jeanne d'Arc Beginners Guide",
-    "description": "Overview of every unit, building, tech, and unique abilities for Jeanne D'Arc.",
     "creator": "FitzBro",
     "civilizations": [
       "Jeanne d'Arc"
     ],
+    "url": "https://youtu.be/sc-VmMaS_pE",
+    "description": "Overview of every unit, building, tech, and unique abilities for Jeanne D'Arc.",
     "relatedItems": [
       "civs/jeannedarc"
     ],
@@ -1241,7 +1241,7 @@
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
   },
   {
-    "url": "https://youtu.be/wQq1xZrucbQ",
+    "title": "Order of the Dragon Beginners Guide",
     "type": "Video",
     "tags": [
       "Military",
@@ -1250,17 +1250,17 @@
       "Breakdown",
       "Beginner"
     ],
-    "title": "Order of the Dragon Beginners Guide",
-    "description": "Overview of every unit, building, tech, and unique abilities for the Order of the Dragon.",
     "creator": "FitzBro",
     "civilizations": [
       "Order of the Dragon"
     ],
+    "url": "https://youtu.be/wQq1xZrucbQ",
+    "description": "Overview of every unit, building, tech, and unique abilities for the Order of the Dragon.",
     "relatedItems": [
       "civs/orderofthedragon"
     ],
-    "approved": true,
     "featured": true,
+    "approved": true,
     "youtube_data": {
       "title": "AoE4 Order of the Dragon Beginners Guide - Early Access",
       "videoId": "wQq1xZrucbQ",
@@ -1271,7 +1271,7 @@
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
   },
   {
-    "url": "https://youtu.be/aRn1bbS-3BE",
+    "title": "Zhu Xi's Legacy Beginners Guide",
     "type": "Video",
     "tags": [
       "Tips & Tricks",
@@ -1280,12 +1280,12 @@
       "Season 6",
       "Beginner"
     ],
-    "title": "Zhu Xi's Legacy Beginners Guide",
-    "description": "Overview of all units, buildings, techs, and unique abilities for Zhu Xi's Legacy.",
     "creator": "FitzBro",
     "civilizations": [
       "Zhu Xi's Legacy"
     ],
+    "url": "https://youtu.be/aRn1bbS-3BE",
+    "description": "Overview of all units, buildings, techs, and unique abilities for Zhu Xi's Legacy.",
     "relatedItems": [
       "civs/zhuxi"
     ],
