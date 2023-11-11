@@ -21,7 +21,8 @@ for (const item of content) {
   //Checks if the Video is a Youtube Link
   if (
     (item.type === 'Video' || item.type === 'Shorts') &&
-    (new URL(item.url).hostname.endsWith('youtube.com') || new URL(item.url).hostname.endsWith('youtu.be'))
+    (new URL(item.url).hostname.endsWith('youtube.com') ||
+      new URL(item.url).hostname.endsWith('youtu.be'))
   ) {
     const fetchedBefore = parsedData.find((x) => x.url === item.url);
     if (fetchedBefore) {
@@ -40,7 +41,7 @@ for (const item of content) {
         //Check if a thumbnail URL already exists, if not add it.
         if (!item.thumbnail) {
           item.thumbnail =
-            video.videoDetails.thumbnail.thumbnails[
+            video.videoDetails.thumbnail?.thumbnails[
               video.videoDetails.thumbnail.thumbnails.length - 1
             ].url;
         }
