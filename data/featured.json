@@ -1,294 +1,5 @@
 [
   {
-    "title": "Introduction to The Rus ",
-    "type": "Video",
-    "relatedItems": [
-      "civs/rus",
-      "units/warrior-monk",
-      "units/streltsy"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "Rus"
-    ],
-    "url": "https://www.youtube.com/watch?v=M_iZWJ_7VcM",
-    "featured": true,
-    "description": "The advantage of playing the Rus is that the wilderness is yours to command. By using your surroundings, particularly gathering resources, you can build up a strong economy quickly. In battle, the Rus are known for their mounted Warrior Monk that can buff surrounding units, and for the Streltsy, a powerful gunpowder unit. ",
-    "youtube_data": {
-      "title": "Age of Empires IV - The Rus",
-      "videoId": "M_iZWJ_7VcM",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "165"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/M_iZWJ_7VcM/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The Chinese",
-    "type": "Video",
-    "relatedItems": [
-      "civs/chinese"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "Chinese"
-    ],
-    "url": "https://www.youtube.com/watch?v=ornRaviBzcs",
-    "featured": true,
-    "description": "The Chinese civilization is characterized by impressive constructions, gunpowder strength, and a dynasty system that provides unique benefits and varied strategies to overcome the opponent. ",
-    "youtube_data": {
-      "title": "Age of Empires IV - The Chinese",
-      "videoId": "ornRaviBzcs",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "164"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/ornRaviBzcs/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The Delhi Sultanate",
-    "type": "Video",
-    "relatedItems": [
-      "civs/delhi"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "Delhi"
-    ],
-    "url": "https://www.youtube.com/watch?v=ST5ZNfXgyYI",
-    "featured": true,
-    "description": "The Delhi Sultanate has a strong focus on research and defense, with an edge in technological advancement over other civilizations. Their army can be terrifying to encounter with the War Elephant, a melee unit of staggering raw strength capable of high damage, as the core of their army.",
-    "youtube_data": {
-      "title": "Age of Empires IV - The Delhi Sultanate",
-      "videoId": "ST5ZNfXgyYI",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "202"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/ST5ZNfXgyYI/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The French",
-    "type": "Video",
-    "relatedItems": [
-      "civs/french"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "French"
-    ],
-    "url": "https://www.youtube.com/watch?v=5t8vzU1Ek0E",
-    "featured": true,
-    "description": "The French civilization is known for their fierce Royal Knights, specialized gunpowder artillery, and economic bonuses. Constructing archery ranges and stables within the influence of French keeps, archers and Royal Knights can be trained using fewer resources.",
-    "youtube_data": {
-      "title": "Age of Empires IV - The French",
-      "videoId": "5t8vzU1Ek0E",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "165"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/5t8vzU1Ek0E/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The English",
-    "type": "Video",
-    "relatedItems": [
-      "civs/english",
-      "units/longbowman"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "English"
-    ],
-    "url": "https://www.youtube.com/watch?v=1M2a2YxXIeI",
-    "featured": true,
-    "description": "The English are a defensive powerhouse and resilient force on the battlefield, backed by a solid economy. Cheaper farms also increase food gathering rates, giving a boost to the economy early on. With early attacks, town centers fire more arrows than others and villagers can also fend off small raiding parties with bows and arrows.",
-    "youtube_data": {
-      "title": "Age of Empires IV - The English",
-      "videoId": "1M2a2YxXIeI",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "134"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/1M2a2YxXIeI/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The Mongols",
-    "type": "Video",
-    "relatedItems": [
-      "civs/mongols",
-      "units/khan"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "Mongols"
-    ],
-    "url": "https://www.youtube.com/watch?v=td9fLjK8w5Y",
-    "featured": true,
-    "description": "The Mongols are powerful and swift - with the Khan at the head of their army, they can pull off aggressive, mobile tactics in Age of Empires IV against any opponent.\n",
-    "youtube_data": {
-      "title": "Age of Empires IV: The Mongols",
-      "videoId": "td9fLjK8w5Y",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "152"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/td9fLjK8w5Y/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The Abbasid Dynasty",
-    "type": "Video",
-    "relatedItems": [
-      "civs/abbasid",
-      "buildings/house-of-wisdom"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "Abbasid"
-    ],
-    "url": "https://www.youtube.com/watch?v=kHeGeoiuYWc",
-    "featured": true,
-    "description": "The Abbasid Dynasty is an adaptive civilization with the ability to upgrade through research instead of villager construction allowing you to expand your empire quickly.",
-    "youtube_data": {
-      "title": "Age of Empires IV: The Abbasid Dynasty",
-      "videoId": "kHeGeoiuYWc",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "216"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/kHeGeoiuYWc/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "Introduction to The Holy Roman Empire",
-    "type": "Video",
-    "relatedItems": [
-      "civs/hre"
-    ],
-    "approved": true,
-    "tags": [
-      "Beginner"
-    ],
-    "creator": "Age Of Empires Official",
-    "civilizations": [
-      "HRE"
-    ],
-    "url": "https://www.youtube.com/watch?v=ehVm70_Onn0",
-    "featured": true,
-    "description": "The Holy Roman Empire specializes in rugged infantry and unique religious units, giving players an early lead with raw strength and a focused economy. ",
-    "youtube_data": {
-      "title": "Age of Empires IV: The Holy Roman Empire",
-      "videoId": "ehVm70_Onn0",
-      "channelId": "UCidjrp1fZd8TehYD2eYYPvg",
-      "videoDuration": "169"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/ehVm70_Onn0/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCidjrp1fZd8TehYD2eYYPvg"
-  },
-  {
-    "title": "How to quickly garrison villagers",
-    "type": "Video",
-    "relatedItems": [
-      "units/villager"
-    ],
-    "approved": true,
-    "tags": [
-      "Tips & Tricks"
-    ],
-    "creator": "FitzBro",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=9INstxIl7ZM",
-    "featured": true,
-    "description": "Protect your villagers from raids with these easy to use hotkeys!",
-    "youtube_data": {
-      "title": "AoE IV How to Quickly Garrison Villagers",
-      "videoId": "9INstxIl7ZM",
-      "channelId": "UCnwcH2ufz2_Tq0gr8IIa5wg",
-      "videoDuration": "305"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/9INstxIl7ZM/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
-  },
-  {
-    "title": "How to scout",
-    "type": "Video",
-    "relatedItems": [
-      "units/scout"
-    ],
-    "approved": true,
-    "tags": [
-      "Guide"
-    ],
-    "creator": "BeastyqtSC2",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=rObnKGcVd8U",
-    "creator_url": "https://www.youtube.com/c/beastyqtsc2",
-    "featured": true,
-    "description": "Learn how to use your scout to gather sheep, intel and more",
-    "youtube_data": {
-      "title": "Scouting Guide for Age of Empires IV",
-      "videoId": "rObnKGcVd8U",
-      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
-      "videoDuration": "1561"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/rObnKGcVd8U/maxresdefault.jpg"
-  },
-  {
-    "title": "The 3 best warm-ups to achieving a higher rank ",
-    "type": "Video",
-    "approved": true,
-    "tags": [
-      "Guide",
-      "Tips & Tricks"
-    ],
-    "creator": "ICONIC Play",
-    "civilizations": [
-      "All"
-    ],
-    "url": "https://www.youtube.com/watch?v=K1wr25x_gLY",
-    "featured": true,
-    "description": "Age of empires 4 guide that discusses 3 important warmups to achieving a higher rank. hotkey drills, production calculator, and build order rehearsal. ",
-    "youtube_data": {
-      "title": "The 3 best warm-ups to achieving a higher rank | Age of empires 4 | Guide | Conquest to Conqueror",
-      "videoId": "K1wr25x_gLY",
-      "channelId": "UC9CWoCvgiP-GBwnHQGIRB2g",
-      "videoDuration": "224"
-    },
-    "thumbnail": "https://i.ytimg.com/vi/K1wr25x_gLY/maxresdefault.jpg",
-    "creator_url": "https://youtube.com/channel/UC9CWoCvgiP-GBwnHQGIRB2g"
-  },
-  {
     "title": "How to Tower Rush with Mongols",
     "type": "Video",
     "relatedItems": [
@@ -1126,6 +837,10 @@
   {
     "title": "Byzantines Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/byzantines"
+    ],
+    "approved": true,
     "tags": [
       "Beginner",
       "Season 6",
@@ -1136,12 +851,8 @@
       "Byzantines"
     ],
     "url": "https://youtu.be/i1Je2FqWaXM",
-    "description": "Overview of all of the units, buildings, techs, and abilities for the Byzantines.",
-    "relatedItems": [
-      "civs/byzantines"
-    ],
     "featured": true,
-    "approved": true,
+    "description": "Overview of all of the units, buildings, techs, and abilities for the Byzantines.",
     "youtube_data": {
       "title": "AoE4 Byzantines Beginners Guide - Early Access",
       "videoId": "i1Je2FqWaXM",
@@ -1154,6 +865,10 @@
   {
     "title": "Japanese Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/japanese"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Beginner",
@@ -1165,12 +880,8 @@
       "Japanese"
     ],
     "url": "https://youtu.be/7hgOumGxDLQ",
-    "description": "Overview of all of the units, buildings, techs, and unique abilities for the Japanese.",
-    "relatedItems": [
-      "civs/japanese"
-    ],
-    "approved": true,
     "featured": true,
+    "description": "Overview of all of the units, buildings, techs, and unique abilities for the Japanese.",
     "youtube_data": {
       "title": "AoE4 Japanese Beginners Guide - Early Access",
       "videoId": "7hgOumGxDLQ",
@@ -1183,6 +894,10 @@
   {
     "title": "Ayyubids Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/ayyubids"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Beginner",
@@ -1195,12 +910,8 @@
       "Ayyubids"
     ],
     "url": "https://youtu.be/kraoV4q19Ps",
-    "description": "Overview of all units, buildings, techs, and abilities for the Ayyubids.",
-    "relatedItems": [
-      "civs/ayyubids"
-    ],
     "featured": true,
-    "approved": true,
+    "description": "Overview of all units, buildings, techs, and abilities for the Ayyubids.",
     "youtube_data": {
       "title": "AoE4 Ayyubids Beginners Guide - Early Access",
       "videoId": "kraoV4q19Ps",
@@ -1213,6 +924,10 @@
   {
     "title": "Jeanne d'Arc Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/jeannedarc"
+    ],
+    "approved": true,
     "tags": [
       "Guide",
       "Beginner",
@@ -1225,12 +940,8 @@
       "Jeanne d'Arc"
     ],
     "url": "https://youtu.be/sc-VmMaS_pE",
-    "description": "Overview of every unit, building, tech, and unique abilities for Jeanne D'Arc.",
-    "relatedItems": [
-      "civs/jeannedarc"
-    ],
-    "approved": true,
     "featured": true,
+    "description": "Overview of every unit, building, tech, and unique abilities for Jeanne D'Arc.",
     "youtube_data": {
       "title": "AoE4 Jeanne d'Arc Beginners Guide - Early Access",
       "videoId": "sc-VmMaS_pE",
@@ -1243,6 +954,10 @@
   {
     "title": "Order of the Dragon Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/orderofthedragon"
+    ],
+    "approved": true,
     "tags": [
       "Military",
       "Guide",
@@ -1255,12 +970,8 @@
       "Order of the Dragon"
     ],
     "url": "https://youtu.be/wQq1xZrucbQ",
-    "description": "Overview of every unit, building, tech, and unique abilities for the Order of the Dragon.",
-    "relatedItems": [
-      "civs/orderofthedragon"
-    ],
     "featured": true,
-    "approved": true,
+    "description": "Overview of every unit, building, tech, and unique abilities for the Order of the Dragon.",
     "youtube_data": {
       "title": "AoE4 Order of the Dragon Beginners Guide - Early Access",
       "videoId": "wQq1xZrucbQ",
@@ -1273,6 +984,10 @@
   {
     "title": "Zhu Xi's Legacy Beginners Guide",
     "type": "Video",
+    "relatedItems": [
+      "civs/zhuxi"
+    ],
+    "approved": true,
     "tags": [
       "Tips & Tricks",
       "Guide",
@@ -1285,12 +1000,8 @@
       "Zhu Xi's Legacy"
     ],
     "url": "https://youtu.be/aRn1bbS-3BE",
-    "description": "Overview of all units, buildings, techs, and unique abilities for Zhu Xi's Legacy.",
-    "relatedItems": [
-      "civs/zhuxi"
-    ],
-    "approved": true,
     "featured": true,
+    "description": "Overview of all units, buildings, techs, and unique abilities for Zhu Xi's Legacy.",
     "youtube_data": {
       "title": "AoE4 Zhu Xi's Legacy Beginners Guide - Early Access",
       "videoId": "aRn1bbS-3BE",
@@ -1299,5 +1010,108 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/aRn1bbS-3BE/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UCnwcH2ufz2_Tq0gr8IIa5wg"
+  },
+  {
+    "title": "All Byzantine units Summarized",
+    "type": "Video",
+    "relatedItems": [
+      "civs/byzantines"
+    ],
+    "approved": true,
+    "tags": [
+      "Season 6",
+      "Beginner",
+      "Overview"
+    ],
+    "creator": "Age of Noob",
+    "civilizations": [
+      "Byzantines"
+    ],
+    "url": "https://www.youtube.com/watch?v=xEjVm7r0Si0",
+    "featured": true,
+    "description": "Quick summary of all Byzantine units",
+    "youtube_data": {
+      "title": "All NEW Byzantine Units in AoE4!",
+      "videoId": "xEjVm7r0Si0",
+      "channelId": "UC0jF4bYQhjFWdHZ0OK1H2IA",
+      "videoDuration": "555"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/xEjVm7r0Si0/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC0jF4bYQhjFWdHZ0OK1H2IA"
+  },
+  {
+    "title": "Everything you need to know about Japanese ",
+    "type": "Video",
+    "relatedItems": [
+      "civs/japanese"
+    ],
+    "approved": true,
+    "tags": [
+      "Season 6",
+      "Overview"
+    ],
+    "creator": "BeastyqtSC2",
+    "civilizations": [
+      "Japanese"
+    ],
+    "url": "https://www.youtube.com/watch?v=EuQ_hhnpeKc",
+    "featured": true,
+    "description": "This is everything you need to know about Japanese in Age of Empires ",
+    "youtube_data": {
+      "title": "Everything you need to know about Japanese in AOE4",
+      "videoId": "EuQ_hhnpeKc",
+      "channelId": "UCo4EukJcKyZL6oXoLfsWxfA",
+      "videoDuration": "3279"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/EuQ_hhnpeKc/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UCo4EukJcKyZL6oXoLfsWxfA"
+  },
+  {
+    "title": "Nomad Megarandom Beginner's Guide",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "Guide",
+      "Beginner"
+    ],
+    "creator": "TeamRespawn",
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://youtu.be/dw1d0n7jnR0",
+    "featured": true,
+    "description": "A guide that dives into the details of where to setup your initial TC in the official Nomad mode, as well as tips to get your base up and running quickly.",
+    "youtube_data": {
+      "title": "How to get started in Nomad! Age of Empires 4 Nomad Megarandom Beginner's Guide",
+      "videoId": "dw1d0n7jnR0",
+      "channelId": "UC7p8p881VBUXXcNbomNsT8A",
+      "videoDuration": "624"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/dw1d0n7jnR0/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC7p8p881VBUXXcNbomNsT8A"
+  },
+  {
+    "title": "Japan's Epic Journey in AoE 4 - The Sultan's Ascend! 🥷",
+    "type": "Video",
+    "approved": true,
+    "tags": [
+      "History",
+      "Fun"
+    ],
+    "creator": "Bella Capilla",
+    "civilizations": [
+      "Japanese"
+    ],
+    "url": "https://www.youtube.com/watch?v=exDQpwJ9nSk",
+    "featured": true,
+    "description": "From feudal beginnings to shogun dominance, witness Japan's epic evolution in AoE 4! 🏯⚔️",
+    "youtube_data": {
+      "title": "Japan's Epic Journey in AoE 4 - The Sultan's Ascend! 🥷",
+      "videoId": "exDQpwJ9nSk",
+      "channelId": "UC7IPqjuKAr8rr__z33HTfZA",
+      "videoDuration": "1438"
+    },
+    "thumbnail": "https://i.ytimg.com/vi/exDQpwJ9nSk/maxresdefault.jpg",
+    "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
   }
 ]
