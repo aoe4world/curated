@@ -4012,6 +4012,10 @@
     ],
     "url": "https://www.youtube.com/watch?v=yZhyvrPKfbE",
     "description": "This is everything you need to know about Byzantines in AoE4.",
+    "tags": [
+      "Season 6",
+      "Guide"
+    ],
     "youtube_data": {
       "title": "Everything you need to know about Byzantines in AOE4",
       "videoId": "yZhyvrPKfbE",
@@ -4090,5 +4094,32 @@
     },
     "thumbnail": "https://i.ytimg.com/vi/exDQpwJ9nSk/maxresdefault.jpg",
     "creator_url": "https://youtube.com/channel/UC7IPqjuKAr8rr__z33HTfZA"
+  },
+  {
+    "title": "A Beginner's Scouting Guide for Age of Empires 4: Fundamentals and Tactical Insights",
+    "type": "Written",
+    "tags": [
+      "Beginner"
+    ],
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://empirewarsblog.com/",
+    "description": "In this scouting guide, we will delve into the fundamentals of scouting and provide you with invaluable tips, allowing you to gain a strategic edge.",
+    "approved": true
+  },
+  {
+    "title": "From Villager to Emperor: Macro Strategies in Age of Empires 4",
+    "type": "Written",
+    "tags": [
+      "Guide",
+      "Beginner"
+    ],
+    "civilizations": [
+      "All"
+    ],
+    "url": "https://empirewarsblog.com/from-villager-to-emperor-macro-strategies-in-age-of-empires-4/",
+    "description": "In this article, we will explore the meaning of macrogame and its significance in Age of Empires 4 success.",
+    "approved": true
   }
 ]
